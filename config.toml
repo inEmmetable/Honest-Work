@@ -4,3 +4,5 @@ theme = "honestwork"
 title = "Honest Work"
 [markup.goldmark.renderer]
 unsafe = true
+[blackfriday]
+hrefTargetBlank = true

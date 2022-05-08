@@ -10,7 +10,7 @@ sections:
     heading: "Donate Us"
   - template: block-text
     content: Add some here content here related to donation
-  - show_form: true
+  - show_form: false
 
 ---
 

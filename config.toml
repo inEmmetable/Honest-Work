@@ -3,4 +3,4 @@ languageCode = "en-us"
 theme = "honestwork"
 title = "Honest Work"
 [markup.goldmark.renderer]
-unsafe = true
+unsafe = false

@@ -2,9 +2,6 @@ baseURL = "http://honestwork.org/"
 languageCode = "en-us"
 theme = "honestwork"
 title = "Honest Work"
-[markup.goldmark.renderer]
-unsafe = false
-
 
 [markup]
   defaultMarkdownHandler = 'blackfriday'

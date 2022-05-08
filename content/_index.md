@@ -1,5 +1,5 @@
 +++
-content = "Workers around the world want to work for companies that do right by people and the planet.\n\n[test link](https://honestwork.org/what-to-change/technology/)\n\nHonest Work is a platform that will help these workers find each other and change their companies together.\n\nThe platform will be launched in 2022; sign up for updates via the subscription box below\n\nFor enquiries, contact emmet@honestwork.org."
+content = "Workers around the world want to work for companies that do right by people and the planet.\n\n[test link](https://honestwork.org/what-to-change/technology/)\n\n<a href=\"[https://honestwork.org/what-to-change/technology/](https://honestwork.org/what-to-change/technology/ \"https://honestwork.org/what-to-change/technology/\")\" target=\"_blank\">honest link</a>\n\nHonest Work is a platform that will help these workers find each other and change their companies together.\n\nThe platform will be launched in 2022; sign up for updates via the subscription box below\n\nFor enquiries, contact emmet@honestwork.org."
 header_image = ""
 hero_image = ""
 hero_sub_title = ""

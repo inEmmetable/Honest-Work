@@ -6,6 +6,6 @@ fields:
 - name: heading
   type: text
   config:
-    required: true
+    required: false
   label: Heading
   description: The heading

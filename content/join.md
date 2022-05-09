@@ -4,7 +4,7 @@ header_image = "/uploads/about-how-0-banner-2.jpg"
 password_protected = false
 show_sub_navigation = false
 text_alignment = "center"
-title = "Join 2"
+title = "Join"
 [[sections]]
 heading = "Join workers making a change"
 template = "block-heading"

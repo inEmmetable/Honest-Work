@@ -3,7 +3,7 @@ content = ""
 header_image = "/uploads/about-how-0-banner-2.jpg"
 password_protected = false
 show_sub_navigation = true
-text_alignment = "center"
+text_alignment = "left"
 title = "Donate 2"
 [[sections]]
 heading = "Donate Us"

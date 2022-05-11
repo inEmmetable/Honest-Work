@@ -1,5 +1,5 @@
 +++
-content = "Page header content"
+content = "Make your donations using the donate button"
 header_image = "/uploads/about-how-0-banner-2.jpg"
 password_protected = false
 show_sub_navigation = false

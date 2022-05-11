@@ -1,5 +1,5 @@
 +++
-content = ""
+content = "Page header content"
 header_image = "/uploads/about-how-0-banner-2.jpg"
 password_protected = false
 show_sub_navigation = true

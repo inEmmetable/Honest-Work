@@ -6,7 +6,7 @@ show_sub_navigation = false
 text_alignment = "center"
 title = "Donate"
 [[sections]]
-heading = "Donate Us"
+heading = "Support Honest Work!"
 template = "block-heading"
 [[sections]]
 content = "Content here is related to donation"

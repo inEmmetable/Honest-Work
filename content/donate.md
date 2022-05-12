@@ -1,6 +1,6 @@
 +++
 content = ""
-header_image = "/uploads/about-how-0-banner-2.jpg"
+header_image = "/uploads/donate-small.jpg"
 password_protected = false
 show_sub_navigation = false
 text_alignment = "center"

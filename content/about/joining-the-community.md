@@ -1,6 +1,6 @@
 +++
 content = ""
-header_image = "/uploads/about-how-0-banner-2.jpg"
+header_image = "/uploads/about-joining-the-community-lego-hippies.jpg"
 password_protected = false
 show_sub_navigation = true
 text_alignment = ""
@@ -24,7 +24,7 @@ template = "block-text"
 heading = "Who can join?"
 template = "block-heading"
 [[sections]]
-content = "We’re open to all workers who are passionate about making the world a better place. Though to ensure workers feel able to talk freely, we will generally exclude anyone in a management or human resources role, journalists seeking to do reporting on other workers, and those seeking to promote products or services to other members.\n\nMembers will be allowed to remain anonymous on the platform, but we will seek to validate you meet the above requirements during registration."
+content = "We’re open to all workers who are passionate about making the world a better place. Though to ensure workers feel able to talk freely, we will generally exclude anyone in a management or human resources role, journalists seeking to do reporting on other workers, and those seeking to promote products or services to other members.\n\nMembers will be allowed to remain anonymous on the platform, but we will seek to validate you meet the above requirements during registration. Fair enough?"
 template = "block-text"
 
 +++

@@ -15,16 +15,31 @@ fields:
     config:
       maxSize: 64
     label: Slider Image One
+  - name: image_one_-_content
+    type: text
+    config:
+      required: false
+    label: Image one - Content
   - name: slider_image_two
     type: file
     config:
       maxSize: 64
     label: Slider Image Two
+  - name: image_two_-_content
+    type: text
+    config:
+      required: false
+    label: Image Two - Content
   - name: slider_image_three
     type: file
     config:
       maxSize: 64
     label: Slider Image Three
+  - name: image_three_-_content
+    type: text
+    config:
+      required: false
+    label: Image Three - Content
   config:
     min: 
     max: 

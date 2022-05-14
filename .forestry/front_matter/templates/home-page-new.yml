@@ -16,11 +16,3 @@ fields:
     schema:
       format: markdown
   label: Description
-- name: page_sections
-  type: blocks
-  label: Page Sections
-  template_types:
-  - home-page-elements-section
-  config:
-    min: 
-    max: 

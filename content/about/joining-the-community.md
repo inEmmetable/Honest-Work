@@ -1,6 +1,6 @@
 +++
 content = ""
-header_image = "/uploads/about-joining-the-community-lego-hippies.jpg"
+header_image = "/uploads/what-to-change-lobbying.jpg"
 password_protected = false
 show_sub_navigation = true
 text_alignment = ""

@@ -17,8 +17,26 @@ fields:
       format: markdown
   label: Description
 - name: slider_images
-  type: file
+  type: field_group_list
+  fields:
+  - name: slider_image_one
+    type: file
+    config:
+      maxSize: 64
+    label: Slider Image One
+  - name: slider_image_two
+    type: file
+    config:
+      maxSize: 64
+    label: Slider Image Two
+  - name: slider_image_three
+    type: file
+    config:
+      maxSize: 64
+    label: Slider Image Three
   config:
-    maxSize: 64
-  label: Slider image 1
-  description: Add the slider images
+    min: 
+    max: 
+    labelField: 
+  label: Slider Images
+  description: Add the home page slider images here

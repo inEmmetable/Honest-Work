@@ -7,15 +7,6 @@ fields:
   config:
     required: true
   label: Title
-- name: description
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: Description
 - name: slider_images
   type: field_group_list
   fields:

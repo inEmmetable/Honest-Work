@@ -16,3 +16,9 @@ fields:
     schema:
       format: markdown
   label: Description
+- name: slider_images
+  type: file
+  config:
+    maxSize: 64
+  label: Slider images
+  description: Add the slider images

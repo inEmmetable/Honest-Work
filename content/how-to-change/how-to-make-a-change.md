@@ -54,7 +54,7 @@ template = "block-heading"
 image = "/uploads/manny-becerra-gtpk-wt1qoy-unsplash-1.jpg"
 template = "block-image"
 [[sections]]
-content = "At any stage in the process above, if it’s a motivating issue for a sufficient number of employees, consider joining a trade union \\[**link**\\]. Unions can advise on tactics for influencing management at your workplace, help protect you from retaliation, and can act as a medium to show collective worker strength.\n\nMany unions are unaccustomed to helping workers with environmental and social issues with respect to their employers - ask about their experience in this area and how they can support you with your specific goals."
+content = "At any stage in the process above, if it’s a motivating issue for a sufficient number of employees, consider joining a [trade union](https://honestwork.org/how-to-change/joining-a-trade-union/). Unions can advise on tactics for influencing management at your workplace, help protect you from retaliation, and can act as a medium to show collective worker strength.\n\nMany unions are unaccustomed to helping workers with environmental and social issues with respect to their employers - ask about their experience in this area and how they can support you with your specific goals."
 template = "block-text"
 
 +++

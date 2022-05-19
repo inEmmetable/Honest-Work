@@ -21,14 +21,14 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
+answer = "_Fashion -_ “[The True Cost](https://truecostmovie.com/)” documentary provides a good introduction to some of the issues within the fashion industry, while the Clean Clothes Campaign has a range of [resources](https://cleanclothes.org/resources/recommended-reading), global and region-specific. Fashion Revolution has a [manifesto](https://www.fashionrevolution.org/manifesto/) for how the fashion industry needs to change (which workers can sign).\n\n_Food and beverages_ - These supply chains cut across human rights, environmental degradation and animal welfare issues. [Fairtrade](https://www.fairtrade.net/issue) explains these issues within a range of these supply chains, while the [BHRRC](https://www.business-humanrights.org/en/search-topics) tackles issues including fish and wine. BBFAW compares business practices on animal welfare in an annual [report](https://bbfaw.com/publications/)."
+question = "More information"
+[[sections.faq]]
 answer = "KnowTheChain produces a [ranking](https://knowthechain.org/benchmark/) of corporate practices on human rights."
 question = "How's your company doing?"
 [[sections.faq]]
 answer = "* Does your company have a code of conduct for its supply chains? How stringently is it upheld?\n* Can your company trace the raw materials for its products back to their origins (i.e. beyond just their direct supplier)?\n* Does your company’s supply chain operate in any particularly “at risk” regions?"
-question = "Some questions for your company"
-[[sections.faq]]
-answer = "_Fashion -_ “[The True Cost](https://truecostmovie.com/)” documentary provides a good introduction to some of the issues within the fashion industry, while the Clean Clothes Campaign has a range of [resources](https://cleanclothes.org/resources/recommended-reading), global and region-specific. Fashion Revolution has a [manifesto](https://www.fashionrevolution.org/manifesto/) for how the fashion industry needs to change (which workers can sign).\n\n_Food and beverages_ - These supply chains cut across human rights, environmental degradation and animal welfare issues. [Fairtrade](https://www.fairtrade.net/issue) explains these issues within a range of these supply chains, while the [BHRRC](https://www.business-humanrights.org/en/search-topics) tackles issues including fish and wine. BBFAW compares business practices on animal welfare in an annual [report](https://bbfaw.com/publications/)."
-question = "More information"
+question = "Questions for your company"
 [[sections]]
 heading = "Durability and Waste"
 template = "block-heading"

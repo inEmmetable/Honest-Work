@@ -70,6 +70,6 @@ answer = "The 56 largest extractive companies in the world were assessed on thei
 question = "How's your company doing?"
 [[sections.faq]]
 answer = "* Does your company have a policy setting out how it respects human rights? Does it include a commitment to the principle of free, prior and informed consent?\n* Does your company provide access to remedy/adequate compensation where a human rights breach has taken place?"
-question = "Some questions to start with"
+question = "Questions for your company"
 
 +++

@@ -48,14 +48,14 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
+answer = "The [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf) set out a framework for companies to prevent, address and remedy human rights abuses committed in business operations. The Business and Human Rights Resource Centre has some [resources](https://www.business-humanrights.org/en/un-guiding-principles/implementation-tools-examples/implementation-by-companies) on how companies have gone about implementing the UNGPs."
+question = "More information"
+[[sections.faq]]
 answer = "200 of the biggest publicly-traded companies are [ranked](https://www.corporatebenchmark.org/) annually on their human rights performance; see how your company fares. Companies based in Asia and companies in the ICT manufacturing sector tend to score lowest on their human rights performance."
 question = "The big contributors"
 [[sections.faq]]
 answer = "* Does your company undertake due diligence to ensure that there are no human rights breaches throughout its supply chain (i.e. beyond its direct suppliers)?\n* Where a human rights breach is found to have taken place, does your company provide remedy and compensation that is satisfactory to the victim?"
-question = "Some questions to start with"
-[[sections.faq]]
-answer = "The [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf) set out a framework for companies to prevent, address and remedy human rights abuses committed in business operations. The Business and Human Rights Resource Centre has some [resources](https://www.business-humanrights.org/en/un-guiding-principles/implementation-tools-examples/implementation-by-companies) on how companies have gone about implementing the UNGPs."
-question = "More information"
+question = "Some questions for your company"
 [[sections]]
 heading = "Tax"
 template = "block-heading"

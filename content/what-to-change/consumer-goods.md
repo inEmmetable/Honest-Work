@@ -42,10 +42,10 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
-answer = "* Is the life cycle of my company’s products shorter than that of its peers?\n* How does my company dispose of waste and unsold products?\n* How much packaging is used for my company’s products? Could it be reduced?\n* Does my company use recycled materials in the production of its products and packaging?"
-question = "Questions for your company"
-[[sections.faq]]
 answer = "_What you need to know_ - The Plastic Pollution Coalition has a number of different [resources ](https://www.plasticpollutioncoalition.org/latestresources)related to the problem of plastic and solutions. For clothing, a [Sustainable Clothing Action Plan](https://www.wrap.org.uk/sustainable-textiles/scap) sets out how to design clothing for longevity and how companies can facilitate consumer recycling."
 question = "More information"
+[[sections.faq]]
+answer = "* Is the life cycle of my company’s products shorter than that of its peers?\n* How does my company dispose of waste and unsold products?\n* How much packaging is used for my company’s products? Could it be reduced?\n* Does my company use recycled materials in the production of its products and packaging?"
+question = "Questions for your company"
 
 +++

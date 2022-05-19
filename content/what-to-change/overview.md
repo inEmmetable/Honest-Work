@@ -66,8 +66,14 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
-answer = "A great resource with answers to just about everything is [here](https://www.icij.org/investigations/panama-papers/what-is-a-tax-haven-offshore-finance-explained/). The Tax Justice Network has prepared answers to some FAQs [here](https://www.taxjustice.net/faq/), including why this isn’t an issue just for governments.\n\n_The big contributors to the problem_ - Some media outlets prepare lists of the biggest tax dodgers in their country, including: [Australia](https://www.michaelwest.com.au/top-40-tax-dodgers-2019/), [UK](https://www.thisismoney.co.uk/money/news/article-6522913/Almost-1-5-biggest-firms-paid-year-5-got-handout-taxman.html), [US](https://itep.org/55-profitable-corporations-zero-corporate-tax/).\n\n_What can you ask for -_ Business can get certified with a [Fair Tax Mark](https://fairtaxmark.net/) to indicate they’re paying a reasonable rate of tax."
+answer = " Some media outlets prepare lists of the biggest tax dodgers in their country, including: [Australia](https://www.michaelwest.com.au/top-40-tax-dodgers-2019/), [UK](https://www.thisismoney.co.uk/money/news/article-6522913/Almost-1-5-biggest-firms-paid-year-5-got-handout-taxman.html), [US](https://itep.org/55-profitable-corporations-zero-corporate-tax/)."
+question = "The big contributors to the problem"
+[[sections.faq]]
+answer = "A great resource with answers to just about everything is [here](https://www.icij.org/investigations/panama-papers/what-is-a-tax-haven-offshore-finance-explained/). The Tax Justice Network has prepared answers to some FAQs [here](https://www.taxjustice.net/faq/), including why this isn’t an issue just for governments.\n\n_What can you ask for -_ Business can get certified with a [Fair Tax Mark](https://fairtaxmark.net/) to indicate they’re paying a reasonable rate of tax."
 question = "More information"
+[[sections.faq]]
+answer = "Countries across the globe are damaged by the reduced tax revenues they are able to collect from companies. Yet this is a particular problem for l**ow-income countries**, who are [estimated](https://www.imf.org/external/pubs/ft/fandd/2019/09/tackling-global-tax-havens-shaxon.htm) to miss out on around $200bn in corporate tax revenues per year - that’s greater than the amount they receive in development assistance."
+question = "The most urgent issue"
 [[sections.faq]]
 answer = "* How much tax did your company pay in your jurisdiction last year?\n* Does your company declare a significant amount of its profits in a [tax haven](https://cthi.taxjustice.net/en/) such as the British Virgin Islands or Bermuda?\n* Does your company do country-by-country reporting?\n* Does your company supply aggressive tax planning services to other businesses?"
 question = "Questions for your company"

@@ -48,6 +48,9 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
+answer = "200 of the biggest publicly-traded companies are [ranked](https://www.corporatebenchmark.org/) annually on their human rights performance; see how your company fares. Companies based in Asia and companies in the ICT manufacturing sector tend to score lowest on their human rights performance."
+question = "The big contributors"
+[[sections.faq]]
 answer = "* Does your company undertake due diligence to ensure that there are no human rights breaches throughout its supply chain (i.e. beyond its direct suppliers)?\n* Where a human rights breach is found to have taken place, does your company provide remedy and compensation that is satisfactory to the victim?"
 question = "Some questions to start with"
 [[sections.faq]]

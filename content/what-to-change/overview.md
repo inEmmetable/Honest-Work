@@ -24,17 +24,17 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
-answer = "* Is your company a major emitter? Does it have a credible plan to get to net zero greenhouse gas emissions on a sufficiently urgent timeline, with (crucially) interim reduction targets?\n* Does your company provide services to any major emitters? Does it have a policy prohibiting business relations with companies that fail to contribute to climate solutions?\n* Does your company contribute to climate change through its supply chain, perhaps through indirect emissions or deforestation?"
-question = "Questions for your company"
-[[sections.faq]]
 answer = "For a basic introduction to climate change and answers to some FAQs, TED has put together a list of [resources](https://countdown.ted.com/get-informed/) and some of their famous talks which can provide you with information and inspiration. Project Drawdown has put together a comprehensive [guide](https://drawdown.org/publications/climate-solutions-at-work) for what climate conscious employees can demand. [WorkForClimate](https://www.workforclimate.org/post/3-practical-tips-climate-action) and [Planet Groups](https://planetgroups.net/wp-content/uploads/2021/04/As-an-employee-what-can-I-do-for-Corporate-Climate-Action_EN.pdf) also have some tips.\n\nAbandoning fossil fuels should not mean abandoning fossil fuel workers - companies and governments need to have plans for a \"just transition\" for workers to support them in getting good jobs that don’t rely high-emitting energy sources."
 question = "More information"
+[[sections.faq]]
+answer = "While we need to start rapidly reducing our reliance on all fossil fuels, this is most urgent for coal - inefficient and, heavily polluting. **Coal usage must be ramped down as soon as possible**. The International Energy Agency has further [found](https://www.iea.org/reports/net-zero-by-2050) that there should be **no further investment in new fossil fuel supply** to achieve net zero by 2050."
+question = "The most urgent issue"
 [[sections.faq]]
 answer = "[Energy companies](https://honestwork.org/what-to-change/energy/) are obviously the most significant [contributors](https://b8f65cb373b1b7b15feb-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf) to climate change. [Banks and investors](https://honestwork.org/what-to-change/finance/) may also enable poor practices by the companies they lend to or invest in. Beyond these, several technology solutions that have emerged in recent years emit high levels of emissions, such as data centres for cloud computing, blockchain services, and [ride-hailing apps](https://www.ucsusa.org/resources/ride-hailing-climate-risks) like Uber. Supply chains that contribute to deforestation also play a role, such as those for palm oil (found in around [50%](https://www.wwf.org.uk/updates/8-things-know-about-palm-oil) of packaged products in supermarkets)."
 question = "The big contributors"
 [[sections.faq]]
-answer = "While we need to start rapidly reducing our reliance on all fossil fuels, this is most urgent for coal - inefficient and, heavily polluting. **Coal usage must be ramped down as soon as possible**. The International Energy Agency has further [found](https://www.iea.org/reports/net-zero-by-2050) that there should be **no further investment in new fossil fuel supply** to achieve net zero by 2050."
-question = "The most urgent issue"
+answer = "* Is your company a major emitter? Does it have a credible plan to get to net zero greenhouse gas emissions on a sufficiently urgent timeline, with (crucially) interim reduction targets?\n* Does your company provide services to any major emitters? Does it have a policy prohibiting business relations with companies that fail to contribute to climate solutions?\n* Does your company contribute to climate change through its supply chain, perhaps through indirect emissions or deforestation?"
+question = "Questions for your company"
 [[sections]]
 heading = "Human Rights"
 template = "block-heading"

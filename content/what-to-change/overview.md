@@ -55,7 +55,7 @@ answer = "200 of the biggest publicly-traded companies are [ranked](https://www.
 question = "The big contributors"
 [[sections.faq]]
 answer = "* Does your company undertake due diligence to ensure that there are no human rights breaches throughout its supply chain (i.e. beyond its direct suppliers)?\n* Where a human rights breach is found to have taken place, does your company provide remedy and compensation that is satisfactory to the victim?"
-question = "Some questions for your company"
+question = "Questions for your company"
 [[sections]]
 heading = "Tax"
 template = "block-heading"

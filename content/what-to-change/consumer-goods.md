@@ -21,6 +21,9 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
+answer = "KnowTheChain produces a [ranking](https://knowthechain.org/benchmark/) of corporate practices on human rights."
+question = "How's your company doing?"
+[[sections.faq]]
 answer = "* Does your company have a code of conduct for its supply chains? How stringently is it upheld?\n* Can your company trace the raw materials for its products back to their origins (i.e. beyond just their direct supplier)?\n* Does your company’s supply chain operate in any particularly “at risk” regions?"
 question = "Some questions for your company"
 [[sections.faq]]

@@ -73,7 +73,7 @@ answer = "Countries across the globe are damaged by the reduced tax revenues the
 question = "The most urgent issue"
 [[sections.faq]]
 answer = "Some media outlets prepare lists of the biggest tax dodgers in their country, including: [Australia](https://michaelwest.com.au/revealed-australias-top-40-tax-dodgers-for-2021/), [UK](https://www.thisismoney.co.uk/money/news/article-6522913/Almost-1-5-biggest-firms-paid-year-5-got-handout-taxman.html), [US](https://itep.org/corporate-tax-avoidance-under-the-tax-cuts-and-jobs-act/)."
-question = "The big contributors to the problem"
+question = "How's your company doing?"
 [[sections.faq]]
 answer = "* How much tax did your company pay in your jurisdiction last year?\n* Does your company declare a significant amount of its profits in a [tax haven](https://cthi.taxjustice.net/en/) such as the British Virgin Islands or Bermuda?\n* Is your company certified with a [Fair Tax Mark](https://fairtaxmark.net/) to indicate they’re paying a reasonable rate of tax? Why not?\n* Does your company supply aggressive tax planning services to other businesses?"
 question = "Questions for your company"

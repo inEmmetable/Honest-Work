@@ -57,7 +57,7 @@ question = "Questions for your company"
 heading = "Impact on communities"
 template = "block-heading"
 [[sections]]
-content = "Energy projects are inherently disruptive and pose a risk of a range of negative impacts on local communities - forced relocation, restricted access to culturally significant territory, negative impacts on their livelihoods and cultures, failure to pay just and fair compensation. These impacts have fallen disproportionately on indigenous people.\n\nEnergy companies must engage in robust human rights due diligence before initiating any project, obtain the informed consent of communities for the project, ensure dialogue with communities throughout and allow some degree of local ownership of the project."
+content = "Energy projects are inherently disruptive and carry risks of a range of negative impacts on local communities - forced relocation, restricted access to culturally significant territory, negative impacts on their livelihoods, failure to pay just and fair compensation. These impacts have fallen disproportionately on indigenous people.\n\nEnergy companies must engage in robust human rights due diligence before initiating any project, obtain the informed consent of communities for the project, ensure dialogue with communities throughout and allow some degree of local ownership of the project."
 template = "block-text"
 [[sections]]
 template = "block-faq"

@@ -90,11 +90,14 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
+answer = "Vox prepared [40 charts](https://www.vox.com/2014/7/30/5949581/money-in-politics-charts-explain) explaining the state of money in politics - while from 2014 and limited to the US, most of these trends continue today and are true in other countries: the amount of money is going up, the candidate with the most money usually wins, a tiny percentage of the population is responsible for the majority of donations. There is also a [TED talk](https://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim) and something more [lighthearted](https://www.youtube.com/watch?v=Ylomy1Aw9Hk) setting out the issue."
+question = "More information"
+[[sections.faq]]
+answer = "For the US, Open Secrets publishes a [database](https://www.opensecrets.org/orgs/all-profiles) of the top donors and spenders on lobbying per election cycle. [Goods Unite Us](https://www.goodsuniteus.com/) also publish data on how companies and their senior employees donate money, and compares their behaviour to rival brands. Many donations lack transparency and come in the form of “dark money” - [Issue One](https://www.issueone.org/dark-money/) set out to trace the funders of the top 15 dark money groups."
+question = "The big contributors to the problem"
+[[sections.faq]]
 answer = "* How much money does your company spend on political donations and lobbying?\n* What goals has your company pursued through its political engagement activities? Are they consistent with its stated values?\n* What trade associations is your company a member of? Do its policy positions align with those of your company?"
 question = "Questions for your company"
-[[sections.faq]]
-answer = "_What you need to know -_ Vox prepared [40 charts](https://www.vox.com/2014/7/30/5949581/money-in-politics-charts-explain) explaining the state of money in politics - while from 2014 and limited to the US, most of these trends continue today and are true in other countries: the amount of money is going up, the candidate with the most money usually wins, a tiny percentage of the population is responsible for the majority of donations. There is also a [TED talk](https://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim) and something more [lighthearted](https://www.youtube.com/watch?v=Ylomy1Aw9Hk) setting out the issue.\n\n_The big contributors_ - For the US, Open Secrets publishes a [database](https://www.opensecrets.org/orgs/all-profiles) of the top donors and spenders on lobbying per election cycle. [Goods Unite Us](https://www.goodsuniteus.com/) also publish data on how companies and their senior employees donate money, and compares their behaviour to rival brands. Many donations lack transparency and come in the form of “dark money” - [Issue One](https://www.issueone.org/dark-money/) set out to trace the funders of the top 15 dark money groups."
-question = "Further information"
 [[sections]]
 heading = "Prioritising Profits"
 template = "block-heading"

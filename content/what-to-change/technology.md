@@ -63,11 +63,11 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
+answer = "The Center for Humane Technology are developing a range of [resources](https://humanetech.com/resources) on this issue and how to design in a more ethical way. There is also a [ledger](https://ledger.humanetech.com/) of research on the harms caused by manipulative tech. For a quick primer on the topic, there is this 1843 [article](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive) or a [TED talk](https://www.ted.com/talks/tristan_harris_how_a_handful_of_tech_companies_control_billions_of_minds_every_day?language=en). A [study](https://arxiv.org/abs/1907.07032) of 11,000 e-commerce sites sets out some common \"dark patterns\" used to steer consumers into making unintended decisions."
+question = "More information"
+[[sections.faq]]
 answer = "* What are the metrics your company uses to define success regarding its users? Are those metrics aligned with the users’ own interests?\n* Do your company’s products rely on techniques such as variable rewards, push notifications and continuous streaks that are designed to get users “hooked”? Are children users of these products?"
 question = "Some questions to start with"
-[[sections.faq]]
-answer = "_What you need to know -_ Tristan Harris and his organisation Center for Humane Technology are developing a range of [resources](https://humanetech.com/resources) on this issue and how to design in a more ethical way. There is also a [ledger](https://ledger.humanetech.com/) of research on the harms caused by manipulative tech. For a quick primer on the topic, there is this 1843 [article](https://www.1843magazine.com/features/the-scientists-who-make-apps-addictive) or a [TED talk](https://www.ted.com/talks/tristan_harris_how_a_handful_of_tech_companies_control_billions_of_minds_every_day?language=en) by Harris. A [study](https://arxiv.org/abs/1907.07032) of 11,000 e-commerce sites sets out some common \"dark patterns\" used to steer consumers into making unintended decisions.\n\n_The most urgent issue -_ [Young people](https://www.commonsensemedia.org/technology-addiction) are particularly vulnerable to these techniques which companies increasingly rely upon. While it ultimately falls to parents to ensure their children use products responsibly, it is companies’ choice whether they enable or hinder parents’ efforts."
-question = "Further information"
 [[sections]]
 heading = "Anti-competitive practices"
 template = "block-heading"

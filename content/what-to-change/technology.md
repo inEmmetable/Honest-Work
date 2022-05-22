@@ -48,6 +48,9 @@ title = ""
 answer = "New America has published a [report](https://www.newamerica.org/oti/reports/its-not-just-content-its-business-model/) setting out the influence content platforms can have on democracy, and suggests solutions balancing free speech, privacy and government surveillance concerns."
 question = "More information"
 [[sections.faq]]
+answer = "False information broadcast by tech platforms may be hindering progress on all other issues in these pages, by reducing public support for solutions. Fake news has been [found](http://news.mit.edu/2018/study-twitter-false-news-travels-faster-true-stories-0308) to travel further and faster than true news. Tackling political misinformation is [neglected](https://www.theguardian.com/technology/2021/apr/12/facebook-loophole-state-backed-manipulation) in poorer countries posing less of a PR risk. [Many platforms](https://consciousadnetwork.medium.com/open-letter-global-action-required-now-to-tackle-the-threat-of-climate-misinformation-and-7064278b5b77) allow for the monetisation of climate misinformation (Google have notably [committed](https://www.bbc.co.uk/news/technology-58831379) to ending this practice). This results in greater polarisation and the continuing election of climate deniers as political representatives."
+question = "The most urgent issue"
+[[sections.faq]]
 answer = "* What is your company’s approach to moderating content? Who inputs into policies around how content is moderated?\n* Is your company transparent about the variables that influence any content moderation algorithms?\n* Does your company allow the promotion and/or monetisation of false or misleading content?"
 question = "Questions for your company"
 [[sections]]

@@ -39,7 +39,7 @@ template = "block-heading"
 image = "/uploads/what-healthcare-amr.jpg"
 template = "block-image"
 [[sections]]
-content = "Antimicrobial resistance (AMR) refers to the evolution of bacteria and other microorganisms to become resistant to antimicrobial drugs, leading to the rise of drug-resistant infections (known as superbugs). It has been ranked as one of the top 10 global public health threats facing humanity, and already kills an estimated 700,000 people per year; this could grow to 10 million per year by 2050 if adequate action isn’t taken.\n\nCompanies operating in this space have a mix of challenges to respond to: restraining the over-prescription and -use of antibiotic drugs, increasing the research and development of new antimicrobial drugs, and expanding access to antibiotics in low-income countries."
+content = "Antimicrobial resistance (AMR) refers to the evolution of bacteria and other microorganisms to become resistant to antimicrobial drugs, leading to the rise of drug-resistant infections (sometimes called superbugs). It has been ranked as one of the top 10 global public health threats facing humanity, and already kills an estimated 700,000 people per year; this could grow to 10 million per year by 2050 if adequate action isn’t taken.\n\nCompanies operating in this space have a mix of challenges to respond to: restraining the over-prescription and -use of antibiotic drugs, increasing the research and development of new antimicrobial drugs, and expanding access to antibiotics in low-income countries."
 template = "block-text"
 [[sections]]
 template = "block-faq"

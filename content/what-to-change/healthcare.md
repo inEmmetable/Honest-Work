@@ -31,6 +31,6 @@ answer = "Access to Medicine produces an [index](https://accesstomedicinefoundat
 question = "How's your company doing?"
 [[sections.faq]]
 answer = "* Has your company significantly increased the price of life-saving or necessary drugs over the past five years?\n* Does your company publish the formulae or criteria which determine how its drugs are priced?\n* Does your company use equitable pricing to enable access to its drugs in less wealthy countries?\n* Has your company engaged in ‘evergreening’, extending the patent life of its drugs?\n* Does your organisation (and the trade groups which it is a member of) support the five [R.A.I.S.E.](https://www.i-mak.org/mission/) priorities for reform of the patent system?"
-question = "Some questions to start with"
+question = "Questions for your company"
 
 +++

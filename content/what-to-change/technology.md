@@ -24,7 +24,7 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
-answer = "The Ranking Digital Rights (RDR) project has a detailed [chapter ](https://rankingdigitalrights.org/index2019/report/privacy/)on privacy, the various challenges attached to it and some recommendations for company action. For an alternative take, [Amnesty International](https://www.amnesty.org/en/documents/pol30/1404/2019/en/) looks specifically at Facebook and Google and the risks of their current approach to privacy."
+answer = "The Ranking Digital Rights (RDR) project has a detailed [chapter ](https://rankingdigitalrights.org/index2019/report/privacy/)on privacy, the various challenges attached to it and some recommendations for company action. For an alternative take, [Amnesty International](https://www.amnesty.org/en/documents/pol30/1404/2019/en/) has looked specifically at Facebook and Google and the risks of their current approach to privacy."
 question = "More information"
 [[sections.faq]]
 answer = "RDR produces a [ranking](https://rankingdigitalrights.org/index2019/) of large technology companies from around the world on their approach to privacy."

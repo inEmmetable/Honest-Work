@@ -69,3 +69,4 @@ title = "Honest Work"
     endLevel = 3
     ordered = false
     startLevel = 2
+    enableRobotsTXT = true

@@ -18,7 +18,7 @@ template = "block-text"
 heading = "Bank lending practices"
 template = "block-heading"
 [[sections]]
-content = "Many projects can’t take place without bank financing. Many fossil fuel exploration projects in particular depend on bank financing, and thus banks have a much more direct and contributing role to fossil fuel projects than other actors.\n\n35 global banks have granted $2.7 trillion in financing to fossil fuel companies since the Paris Agreement, which seeks to limit global warming. Few banks assess whether they are causing or contributing to human rights breaches. If banks were less indifferent to how their money was used, companies and projects that threatened to harm the public good would struggle to get off the ground."
+content = "Many projects can’t take place without bank financing. Many fossil fuel exploration projects in particular depend on bank financing, and thus banks have a much more direct and contributing role to fossil fuel projects than other actors.\n\nFossil fuel financing from the world’s 60 largest banks has reached $4.6 trillion since the adoption of the Paris Agreement in 2015, with $742 billion in fossil fuel financing in 2021 alone. Few banks assess whether they are causing or contributing to human rights breaches. If banks were less indifferent to how their money was used, companies and projects that threatened to harm the public good would struggle to get off the ground."
 template = "block-text"
 [[sections]]
 template = "block-faq"

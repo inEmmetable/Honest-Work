@@ -36,7 +36,7 @@ question = "How's your company doing?"
 answer = "* Does your bank continue to permit lending to fossil fuel expansion?\n* Does your bank have a plan in place to rapidly scale down its financing for existing fossil fuel projects?\n* Does your bank have a rigorous due diligence process to ensure there is no risk faced to human rights by the projects they finance?"
 question = "Questions for your company"
 [[sections]]
-heading = "Unsustainable investments"
+heading = "Unsustainable investing"
 template = "block-heading"
 [[sections]]
 image = "/uploads/what-finance-investments.jpg"

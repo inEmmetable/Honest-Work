@@ -1,7 +1,7 @@
 +++
 content = ""
 header_image = "/uploads/what-tech.jpg"
-password_protected = true
+password_protected = false
 show_sub_navigation = true
 text_alignment = ""
 title = "Technology"

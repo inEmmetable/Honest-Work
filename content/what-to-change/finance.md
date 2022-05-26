@@ -30,6 +30,9 @@ question = "More information"
 answer = "If the world was to only burn all known fossil fuel reserves, that would already take the planet beyond 2 degrees of global warming, well beyond the [1.5 degrees](https://www.ipcc.ch/sr15/) limit needed to avoid some catastrophic consequences. Despite this, fossil fuel expansion continues. Banks should not finance the expansion of fossil fuel extraction or infrastructure, whether via project finance (direct financing for a fossil fuel asset) or general corporate support (financing provided to a company overall), for companies engaged in new fossil fuel exploration, particularly in relation to [coal](https://coalpolicytool.org/)."
 question = "The most urgent issue"
 [[sections.faq]]
+answer = "[Banking on Climate Chaos](https://www.bankingonclimatechaos.org/) collects data on many banks' policies with respect to lending for fossil fuel projects as well as how much financing is actually being committed."
+question = "How's your company doing?"
+[[sections.faq]]
 answer = "* Does your bank continue to permit lending to fossil fuel expansion?\n* Does your bank have a plan in place to rapidly scale down its financing for existing fossil fuel projects?\n* Does your bank have a rigorous due diligence process to ensure there is no risk faced to human rights by the projects they finance?"
 question = "Questions for your company"
 [[sections]]

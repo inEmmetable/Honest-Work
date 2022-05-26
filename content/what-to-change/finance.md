@@ -48,8 +48,8 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
-answer = "* Is your firm invested in fossil fuel companies? Do those companies have a plan to decarbonise?\n* How does your firm vote on ESG shareholder proposals? How does it vote on board elections and compensation proposals at companies with problematic practices?"
-question = "Some questions to start with"
+answer = "* Is your firm invested in fossil fuel companies? How is your firm ensuring that these develop and implement a plan to decarbonise?\n* How does your firm vote on ESG shareholder proposals? How does it vote on board elections and compensation proposals at companies with problematic practices?"
+question = "Questions for your company"
 [[sections.faq]]
 answer = "What you need to know - The Financial Times’ [Moral Money](https://www.ft.com/moral-money) newsletter is a good resource for the latest updates on sustainable investing. For shareholder voting, [Majority Action](https://www.majorityaction.us/) sets out the key issues to look out for and how the largest asset managers vote on relevant shareholder proposals.\n\nWhat you can ask for - There are a number of relevant initiatives investors in this space can join. For asset owners, the [Net Zero Asset Owner Alliance](https://www.unepfi.org/net-zero-alliance/) have pledged to decarbonise their portfolios by 2050. [ClimateAction100+](http://www.climateaction100.org/) is a collection of hundreds of investors engaging the world’s most polluting companies to change their practices. Investors can also support needed policy change such as the [EU taxonomy](https://d8g8t13e9vf2o.cloudfront.net/Uploads/d/s/r/taxonomyinvestorbriefingpostdeal_612580.pdf), which requires investors to disclose the sustainability of their portfolios."
 question = "Further information"

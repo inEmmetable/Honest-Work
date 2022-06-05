@@ -12,7 +12,7 @@ weight = 3
 name = "How to change"
 weight = 3
 [[sections]]
-content = "Once you’ve identified a [change](https://www.honestwork.org/what-to-change/general/) you’d like to try and make at your company, where do you begin?\n\nBelow is a quick step-by-step guide to engaging in workplace advocacy around the kinds of environmental and social issues discussed here. We’ll add more over time. Note that these are only general tips; context is everything. Company cultures differ and some issues are more sensitive than others, so think carefully about the particular aspects of your workplace when seeking to make change. Be aware of the [risks](https://honestwork.org/how-to-change/your-rights/) of speaking up.\n\nNeed inspiration? [Check out](https://honestwork.org/how-to-change/workers-changing-the-world/) what some of what workers have already achieved."
+content = "Once you’ve identified a [change](https://www.honestwork.org/what-to-change/general/) you’d like to try and make at your company, where do you begin?\n\nBelow is a quick step-by-step guide to engaging in workplace advocacy around the kinds of environmental and social issues discussed here. We’ll add more over time. Note that these are only general tips; context is everything. Company cultures differ and some issues are more sensitive than others, so think carefully about the particular aspects of your workplace when seeking to make change. Be aware of the [risks](https://honestwork.org/how-to-change/your-rights/) of speaking up.\n\nNeed inspiration? [Check out](https://honestwork.org/how-to-change/workers-changing-the-world/) what workers have already achieved."
 template = "block-text"
 [[sections]]
 heading = "Find colleagues to collaborate with"

@@ -18,7 +18,7 @@ template = "block-text"
 image = "/uploads/success-stories-ibm-letter.PNG"
 template = "block-image"
 [[sections]]
-content = "Today, more and more workers are understanding the opportunity they have to improve the world they and we live in through their companies. Below are some examples of what workers have achieved and how they did it."
+content = "Recent years have seen workers across the economy take on their companies' contributions to a range of issues including climate change, inequality and online misinformation. Below are some examples of what workers have achieved and how they did it."
 template = "block-text"
 [[sections]]
 template = "block-faq"

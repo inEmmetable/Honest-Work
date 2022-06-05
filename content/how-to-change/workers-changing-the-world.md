@@ -12,7 +12,7 @@ weight = 1
 parent = "How to change"
 weight = 1
 [[sections]]
-content = "Workers banding together to change the impact their company has on the world is not new; it’s something they have been doing for decades at least. For example, workers around the world protested their companies’ involvement in apartheid South Africa. In 1979, IBM Workers United [wrote](http://kora.matrix.msu.edu/files/50/304/32-130-1527-84-ibmflier.pdf) to their company’s shareholders criticising the supply of computers to the South African government. In 1984, one retail worker in Ireland refusing to handle South African goods led to a three-year [strike](https://www.thejournal.ie/dunnes-stores-strike-8-3690382-Nov2017/), culminating in the Irish government banning the import and sale of South African goods."
+content = "History is full of examples of workers coming together to stand up for what is right. In 1862, mill workers in Manchester [refused](https://www.theguardian.com/theguardian/from-the-archive-blog/2013/feb/04/lincoln-oscars-manchester-cotton-abraham) to touch cotton picked by US slaves. Australian construction workers pioneered \"[green bans](https://dictionaryofsydney.org/entry/green_bans_movement)\", refusing to build projects that would damage local environments or communities. Workers at [IBM](http://kora.matrix.msu.edu/files/50/304/32-130-1527-84-ibmflier.pdf), [Polaroid](http://kora.matrix.msu.edu/files/50/304/32-130-1527-84-ibmflier.pdf) and others challenged their companies for supplying the apartheid South African government."
 template = "block-text"
 [[sections]]
 image = "/uploads/success-stories-ibm-letter.PNG"

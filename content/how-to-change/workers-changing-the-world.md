@@ -6,10 +6,10 @@ show_sub_navigation = true
 text_alignment = ""
 title = "Workers changing the world"
 [menu.footer]
-parent = "How to change"
+parent = "About"
 weight = 1
 [menu.main]
-parent = "How to change"
+parent = "About"
 weight = 1
 [[sections]]
 content = "History is full of examples of workers coming together to stand up for what is right. In 1862, mill workers in Manchester [refused](https://www.theguardian.com/theguardian/from-the-archive-blog/2013/feb/04/lincoln-oscars-manchester-cotton-abraham) to touch cotton picked by US slaves. Australian construction workers pioneered \"[green bans](https://dictionaryofsydney.org/entry/green_bans_movement)\", refusing to build projects that would damage local environments or communities. Workers at [IBM](http://kora.matrix.msu.edu/files/50/304/32-130-1527-84-ibmflier.pdf), [Polaroid](http://kora.matrix.msu.edu/files/50/304/32-130-1527-84-ibmflier.pdf) and others challenged their companies for supplying the apartheid South African government."

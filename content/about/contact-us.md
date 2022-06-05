@@ -19,10 +19,10 @@ content: ''
 password_protected: false
 menu:
   footer:
-    weight: 2
+    weight: 3
     parent: About
   main:
-    weight: 2
+    weight: 3
     parent: About
 
 ---

@@ -7,10 +7,10 @@ text_alignment = ""
 title = "Joining the community"
 [menu.footer]
 parent = "About"
-weight = 1
+weight = 2
 [menu.main]
 parent = "About"
-weight = 1
+weight = 2
 [[sections]]
 content = "We are testing appetite for an online community where workers eager to make a change at their companies can connect, share tips and take action. If that sounds of interest sign up [here](https://honestwork.org/join/) and once we have a reasonable number of members we’ll email you a link to join."
 template = "block-text"

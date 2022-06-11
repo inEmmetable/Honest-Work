@@ -18,7 +18,7 @@ template = "block-text"
 heading = "Why join?"
 template = "block-heading"
 [[sections]]
-content = "* Give and receive tips with other workers about what works in changing an organisation from within\n* Learn more about the issues and solutions relevant to your industry\n* Contribute content for the Honest Work website\n* Meet other people passionate about being the change they want to see in the world\n* Potentially connect with other workers at your company who you might not have known where also passionate about making a change, and start planning together!"
+content = "* Give and receive tips with other workers about what works in changing an organisation from within\n* Learn more about the issues and solutions relevant to your industry\n* Contribute content for the Honest Work website\n* Meet other people passionate about being the change they want to see in the world\n* Potentially connect with other workers at your company who you might not have known were also passionate about making a change, and start planning together!"
 template = "block-text"
 [[sections]]
 heading = "Who can join?"

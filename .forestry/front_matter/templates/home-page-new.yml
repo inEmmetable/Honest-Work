@@ -85,3 +85,8 @@ fields:
       format: markdown
   label: content
   description: content
+- name: faq_title
+  type: text
+  config:
+    required: false
+  label: FAQ Title

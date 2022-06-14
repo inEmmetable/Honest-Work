@@ -1,5 +1,5 @@
 ---
-title: New bootstrap home page - Nav
+title: Honest Work - The change you can make
 type: nav-homepage
 slider_images:
 - slider_image_one: "/uploads/705984a5-3740-417a-bf15-2cda2c075be0-3.jpg"

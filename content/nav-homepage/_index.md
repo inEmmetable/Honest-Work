@@ -7,5 +7,7 @@ slider_images:
   slider_image_two: "/uploads/what-healthcare-amr.jpg"
   slider_image_three: "/uploads/what-tech.jpg"
 content: This is forestry content params
+billboard_title_part_1: Honest Work
+billboard_title_part_2: Good People
 
 ---

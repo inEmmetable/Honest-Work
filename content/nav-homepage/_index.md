@@ -6,5 +6,6 @@ slider_images:
   image_one_-_content: Workers have the power to change the world
   slider_image_two: "/uploads/what-healthcare-amr.jpg"
   slider_image_three: "/uploads/what-tech.jpg"
+content: This is forestry content params
 
 ---

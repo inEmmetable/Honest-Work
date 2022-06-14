@@ -21,6 +21,11 @@ fields:
     schema:
       format: markdown
   label: Billboard Text
+- name: billboard_button_text
+  type: text
+  config:
+    required: false
+  label: Billboard Button Text
 - name: left_of_email_form
   type: text
   config:

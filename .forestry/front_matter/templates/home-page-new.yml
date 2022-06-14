@@ -2,6 +2,16 @@
 label: Home Page New
 hide_body: false
 fields:
+- name: billboard_title_part_1
+  type: text
+  config:
+    required: false
+  label: Billboard Title Part 1
+- name: billboard_title_part_2
+  type: text
+  config:
+    required: false
+  label: Billboard Title Part 2
 - name: title
   type: text
   config:

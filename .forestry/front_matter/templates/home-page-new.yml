@@ -26,6 +26,11 @@ fields:
   config:
     required: false
   label: Billboard Button Text
+- name: billboard_button_link
+  type: text
+  config:
+    required: false
+  label: Billboard Button Link
 - name: left_of_email_form
   type: text
   config:

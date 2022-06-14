@@ -12,5 +12,6 @@ billboard_title_part_2: Good People
 billboard_text: In today’s hyperconnected world, decisions made by companies and their
   workers can have major effects on communities at home and around the globe.
 left_of_email_form: Make a Change
+billboard_button_text: Know about Us
 
 ---

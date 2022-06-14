@@ -46,3 +46,13 @@ fields:
     labelField: 
   label: Slider Images
   description: Add the home page slider images here
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: content
+  description: content

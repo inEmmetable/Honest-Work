@@ -21,11 +21,11 @@ fields:
     schema:
       format: markdown
   label: Billboard Text
-- name: title
+- name: left_of_email_form
   type: text
   config:
     required: true
-  label: Title of Home Page
+  label: Left of email form
 - name: slider_images
   type: field_group_list
   fields:

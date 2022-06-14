@@ -33,15 +33,20 @@
         </div>
     </nav>
     -->
-
+    
     <!--Showcase-->
     <section class="bg-light text-dark pt-5 p-lg-0 pt-lg-5 text-center text-sm-start">
         <div class="container">
             <div class="d-sm-flex align-items-center justify-content-between">
                 <div>
-                    <h1>Honest Work <span class="text-warning">Good People</span></h1>
+                    <h1>
+                        {{ partial "markdown" (dict "context" . "markdown" .Params.billboard_title_part_1) }}
+                        <span class="text-warning">
+                            {{ partial "markdown" (dict "context" . "markdown" .Params.billboard_title_part_2) }}
+                        </span>
+                    </h1>
                     <p class="lead my-4">
-                        In today’s hyperconnected world, decisions made by companies and their workers can have major effects on communities at home and around the globe.
+                        {{ partial "markdown" (dict "context" . "markdown" .Params.billboard_text) }}
                     </p>
                     <button class="btn btn-info btn-lg mb-4">
                         Know about Us
@@ -81,7 +86,7 @@
         <div class="container">
             <div class="row text-center">
                 <div class="col-md">
-                    <div class="card bg-light text-light mb-4">
+                    <div class="card bg-light text-dark mb-4">
                         <div class="card-body text-center">
                             <div class="h1 mb-3">
                                 <i class="bi bi-laptop"></i>
@@ -117,7 +122,7 @@
                     </div>
                 </div>
                 <div class="col-md">
-                    <div class="card bg-light text-light mb-4">
+                    <div class="card bg-light text-dark mb-4">
                         <div class="card-body text-center">
                             <div class="h1 mb-3">
                                 <i class="bi bi-laptop"></i>

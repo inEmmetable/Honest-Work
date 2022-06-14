@@ -13,5 +13,6 @@ billboard_text: In today’s hyperconnected world, decisions made by companies a
   workers can have major effects on communities at home and around the globe.
 left_of_email_form: Make a Change
 billboard_button_text: Know about Us
+billboard_button_link: "/about/about-honest-work/"
 
 ---

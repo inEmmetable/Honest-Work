@@ -46,11 +46,9 @@
                         </span>
                     </h1>
                     <p class="lead my-4">
-                        {{ partial "markdown" (dict "context" . "markdown" .Params.billboard_text) }}
+                        {{.Params.billboard_text}}
                     </p>
-                    <button class="btn btn-info btn-lg mb-4">
-                        Know about Us
-                    </button>
+                    <a class="btn btn-info btn-lg mb-4" href="{{.Params.billboard_button_link}}" role="button">{{.Params.billboard_button_text}}</a>
                 </div>
                 <img class="img-fluid w-50 d-none d-sm-block" src="homepage-img/girl-laptop.svg" alt="">
             </div>
@@ -62,7 +60,7 @@
         <div class="container">
             <div class="d-md-flex justify-content-between align-items-center">
                 <h3 class="mb-3 mb-md-0">
-                    The change you can make
+                    {{.Params.left_of_email_form}}
                 </h3>
 
                 <div class="input-group news-input">

@@ -9,5 +9,7 @@ slider_images:
 content: This is forestry content params
 billboard_title_part_1: Honest Work
 billboard_title_part_2: Good People
+billboard_text: In today’s hyperconnected world, decisions made by companies and their
+  workers can have major effects on communities at home and around the globe.
 
 ---

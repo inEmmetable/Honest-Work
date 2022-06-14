@@ -40,9 +40,9 @@
             <div class="d-sm-flex align-items-center justify-content-between">
                 <div>
                     <h1>
-                        {{ partial "markdown" (dict "context" . "markdown" .Params.billboard_title_part_1) }}
+                        {{.Params.billboard_title_part_1}}
                         <span class="text-warning">
-                            {{ partial "markdown" (dict "context" . "markdown" .Params.billboard_title_part_2) }}
+                            {{.Params.billboard_title_part_2}}
                         </span>
                     </h1>
                     <p class="lead my-4">

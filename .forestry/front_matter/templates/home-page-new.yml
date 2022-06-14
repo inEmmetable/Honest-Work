@@ -73,7 +73,7 @@ fields:
     min: 
     max: 
     labelField: 
-  label: Slider Images (Not implemented on home page due to a javascript conflict)
+  label: Slider Images (Not implemented on home page)
   description: Add the home page slider images here
 - name: content
   type: textarea

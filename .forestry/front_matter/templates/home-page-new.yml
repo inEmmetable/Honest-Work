@@ -75,12 +75,12 @@ fields:
     labelField: 
   label: Slider Images (Not implemented on home page)
   description: Add the home page slider images here
-- name: three_columns___column_one_-_title_
+- name: three_columns_column_one_title
   type: text
   config:
     required: false
-  label: 'Three Columns : Column one - Title '
-- name: three_columns___column_one_-_text
+  label: Three Columns Column one Title
+- name: three_columns_column_one_text
   type: textarea
   default: ''
   config:
@@ -88,8 +88,8 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: 'Three Columns : Column one - Text'
-- name: three_columns___column_two_-_title_
+  label: Three Columns Column one Text
+- name: three_columns_column_two_title
   type: textarea
   default: ''
   config:
@@ -97,8 +97,8 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: 'Three Columns : Column two - Title '
-- name: three_columns___column_two_-_text
+  label: Three Columns Column two Title
+- name: three_columns_column_two_text
   type: textarea
   default: ''
   config:
@@ -106,12 +106,12 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: 'Three Columns : Column two - Text'
-- name: three_columns___column_three_-_title
+  label: Three Columns Column two Text
+- name: three_columns_column_three_title
   type: text
   config:
     required: false
-  label: 'Three Columns : Column three - Title'
+  label: Three Columns Column three Title
 - name: three_columns_column_three_text
   type: textarea
   default: ''

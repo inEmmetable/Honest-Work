@@ -11,7 +11,7 @@ billboard_title_part_1: Honest Work
 billboard_title_part_2: Working for a Better World
 billboard_text: In today’s hyperconnected world, decisions made by companies and their
   workers can have major effects on communities at home and around the globe
-left_of_email_form: Make a Change
+left_of_email_form: Sign up for updates
 billboard_button_text: Know about Us
 billboard_button_link: "/about/about-honest-work/"
 faq_title: FAQ - Ways to improve employee participation

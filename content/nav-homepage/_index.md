@@ -52,5 +52,9 @@ three_columns_column_two_text: History is full of examples of workers coming tog
   Workers at IBM, Polaroid and others challenged their companies for supplying the
   apartheid
 three_columns_column_three_title: The change you can make
+white_section_with_left_image_title_1: Learn the ways to do this
+white_section_with_text_image_content_bold_1: While renewable energy is our best hope
+  for the future those companies too must urgently improve their human rights practices
+  if they are to retain their moral legitimacy and social licence.
 
 ---

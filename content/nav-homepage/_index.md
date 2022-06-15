@@ -15,5 +15,6 @@ left_of_email_form: Make a Change
 billboard_button_text: Know about Us
 billboard_button_link: "/about/about-honest-work/"
 faq_title: FAQ - Ways to improve employee participation
+three_columns___column_one_-_title_: How to make a change?
 
 ---

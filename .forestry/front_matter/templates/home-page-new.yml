@@ -75,6 +75,20 @@ fields:
     labelField: 
   label: Slider Images (Not implemented on home page)
   description: Add the home page slider images here
+- name: three_columns___column_one_-_title_
+  type: text
+  config:
+    required: false
+  label: 'Three Columns : Column one - Title '
+- name: three_columns___column_one_-_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 'Three Columns : Column one - Text'
 - name: content
   type: textarea
   default: ''

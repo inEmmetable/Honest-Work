@@ -112,7 +112,7 @@ fields:
   config:
     required: false
   label: 'Three Columns : Column three - Title'
-- name: three_columns___column_three-_text
+- name: three_columns_column_three_text
   type: textarea
   default: ''
   config:
@@ -120,7 +120,7 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: 'Three Columns : Column three- Text'
+  label: Three Columns Column three Text
 - name: faq_title
   type: text
   config:

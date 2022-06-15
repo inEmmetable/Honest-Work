@@ -16,5 +16,10 @@ billboard_button_text: Know about Us
 billboard_button_link: "/about/about-honest-work/"
 faq_title: FAQ - Ways to improve employee participation
 three_columns___column_one_-_title_: How to make a change?
+three_columns___column_one_-_text: Once you’ve identified a change you’d like to try
+  and make at your company, where do you begin? Company cultures differ and some issues
+  are more sensitive than others, so think carefully about the particular aspects
+  of your workplace when seeking to make change. Be aware of the risks of speaking
+  up. Need inspiration? Check out what workers have already achieved.
 
 ---

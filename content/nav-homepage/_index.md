@@ -8,7 +8,7 @@ slider_images:
   slider_image_three: "/uploads/what-tech.jpg"
 content: This is forestry content params
 billboard_title_part_1: Honest Work
-billboard_title_part_2: Good People
+billboard_title_part_2: Working for Better World
 billboard_text: In today’s hyperconnected world, decisions made by companies and their
   workers can have major effects on communities at home and around the globe
 left_of_email_form: Make a Change

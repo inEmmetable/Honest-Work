@@ -126,7 +126,7 @@ fields:
   config:
     required: false
   label: White Section with Left Image Title 1
-- name: white_section_with_text_image_content_bold_1
+- name: white_section_with_left_image_content_bold_1
   type: textarea
   default: ''
   config:
@@ -134,8 +134,8 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: White Section with Text Image Content Bold 1
-- name: white_section_with_text_image_content_normal_1
+  label: White Section with Left Image Content Bold 1
+- name: white_section_with_left_image_content_normal_1
   type: textarea
   default: ''
   config:
@@ -143,7 +143,12 @@ fields:
     wysiwyg: false
     schema:
       format: markdown
-  label: White Section with Text Image Content Normal 1
+  label: White Section with Left Image Content Normal 1
+- name: blue_section_with_right_image_title_1
+  type: text
+  config:
+    required: false
+  label: Blue Section with Right Image Title 1
 - name: faq_title
   type: text
   config:

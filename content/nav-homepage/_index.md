@@ -50,7 +50,7 @@ three_columns_column_two_text: History is full of examples of workers coming tog
   cotton picked by US slaves. Australian construction workers pioneered “green bans”,
   refusing to build projects that would damage local environments or communities.
   Workers at IBM, Polaroid and others challenged their companies for supplying the
-  apartheid South African government.
+  apartheid
 three_columns_column_three_title: The change you can make
 
 ---

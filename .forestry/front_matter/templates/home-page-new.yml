@@ -80,6 +80,15 @@ fields:
   config:
     required: false
   label: 'Three Columns : Column one - Title '
+- name: three_columns___column_one_-_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 'Three Columns : Column one - Text'
 - name: content
   type: textarea
   default: ''

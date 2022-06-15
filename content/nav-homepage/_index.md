@@ -34,5 +34,11 @@ three_columns___column_three-_text: Tech companies operate on the cutting edge o
   cannot be expected to keep up. So it frequently falls to the companies themselves
   to act with care and prudence, and marshall against unforeseen consequences; something
   they have often failed to do.
+three_columns_column_three_text: History is full of examples of workers coming together
+  to stand up for what is right. In 1862, mill workers in Manchester refused to touch
+  cotton picked by US slaves. Australian construction workers pioneered “green bans”,
+  refusing to build projects that would damage local environments or communities.
+  Workers at IBM, Polaroid and others challenged their companies for supplying the
+  apartheid South African government.
 
 ---

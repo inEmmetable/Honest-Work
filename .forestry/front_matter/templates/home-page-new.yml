@@ -135,6 +135,15 @@ fields:
     schema:
       format: markdown
   label: White Section with Text Image Content Bold 1
+- name: white_section_with_text_image_content_normal_1
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: White Section with Text Image Content Normal 1
 - name: faq_title
   type: text
   config:

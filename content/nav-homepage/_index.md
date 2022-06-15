@@ -28,5 +28,11 @@ three_columns___column_two_-_text: History is full of examples of workers coming
   refusing to build projects that would damage local environments or communities.
   Workers at IBM, Polaroid and others challenged their companies for supplying the
   apartheid South African government.
+three_columns___column_three_-_title: Technology
+three_columns___column_three-_text: Tech companies operate on the cutting edge of
+  innovation, and often venture into new product areas at a pace with which regulation
+  cannot be expected to keep up. So it frequently falls to the companies themselves
+  to act with care and prudence, and marshall against unforeseen consequences; something
+  they have often failed to do.
 
 ---

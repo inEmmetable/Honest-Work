@@ -107,6 +107,20 @@ fields:
     schema:
       format: markdown
   label: 'Three Columns : Column two - Text'
+- name: three_columns___column_three_-_title
+  type: text
+  config:
+    required: false
+  label: 'Three Columns : Column three - Title'
+- name: three_columns___column_three-_text
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: 'Three Columns : Column three- Text'
 - name: faq_title
   type: text
   config:

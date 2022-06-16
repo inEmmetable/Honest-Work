@@ -106,5 +106,24 @@ three_columns_column_two_text_slide_2: Once you’ve identified a change you’d
   aspects of your workplace when seeking to make change. Be aware of the risks of
   speaking up. Need inspiration? Check out what workers have already achieved.
 three_columns_column_two_title_slide_2: How to make a change?
+three_columns_column_two_title_slide_3: The change you can make
+three_columns_column_one_title_slide_3: Workers changing the world
+three_columns_column_three_title_slide_3: How to make a change?
+three_columns_column_one_text_slide_3: History is full of examples of workers coming
+  together to stand up for what is right. In 1862, mill workers in Manchester refused
+  to touch cotton picked by US slaves. Australian construction workers pioneered “green
+  bans”, refusing to build projects that would damage local environments or communities.
+  Workers at IBM, Polaroid and others challenged their companies for supplying the
+  apartheid
+three_columns_column_two_text_slide_3: In today’s hyperconnected world, decisions
+  made by companies and their workers can have major effects on communities at home
+  and around the globe. Below are some of the biggest issues that are common to many
+  companies today, with resources that can help you understand how your company is
+  performing. On the bar to the left you can find information based on specific sectors.
+three_columns_column_three_text_slide_3: Once you’ve identified a change you’d like
+  to try and make at your company, where do you begin? Company cultures differ and
+  some issues are more sensitive than others, so think carefully about the particular
+  aspects of your workplace when seeking to make change. Be aware of the risks of
+  speaking up. Need inspiration? Check out what workers have already achieved.
 
 ---

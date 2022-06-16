@@ -124,6 +124,48 @@ fields:
     schema:
       format: markdown
   label: Three Columns Column three Text Slide 2
+- name: three_columns_column_one_title_slide_3
+  type: text
+  config:
+    required: false
+  label: Three Columns Column one Title Slide 3
+- name: three_columns_column_one_text_slide_3
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Three Columns Column one Text Slide 3
+- name: three_columns_column_two_title_slide_3
+  type: text
+  config:
+    required: false
+  label: Three Columns Column two Title Slide 3
+- name: three_columns_column_two_text_slide_3
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Three Columns Column two Text Slide 3
+- name: three_columns_column_three_title_slide_3
+  type: text
+  config:
+    required: false
+  label: Three Columns Column three Title Slide 3
+- name: three_columns_column_three_text_slide_3
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Three Columns Column three Text Slide 3
 - name: white_section_with_left_image_title_1
   type: text
   config:

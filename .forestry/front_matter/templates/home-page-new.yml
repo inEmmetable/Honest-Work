@@ -36,45 +36,6 @@ fields:
   config:
     required: true
   label: Left of email form
-- name: slider_images
-  type: field_group_list
-  fields:
-  - name: slider_image_one
-    type: file
-    config:
-      maxSize: 64
-    label: Slider Image One
-  - name: image_one_-_content
-    type: text
-    config:
-      required: false
-    label: Image one - Content
-  - name: slider_image_two
-    type: file
-    config:
-      maxSize: 64
-    label: Slider Image Two
-  - name: image_two_-_content
-    type: text
-    config:
-      required: false
-    label: Image Two - Content
-  - name: slider_image_three
-    type: file
-    config:
-      maxSize: 64
-    label: Slider Image Three
-  - name: image_three_-_content
-    type: text
-    config:
-      required: false
-    label: Image Three - Content
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Slider Images (Not implemented on home page)
-  description: Add the home page slider images here
 - name: three_columns_column_one_title
   type: text
   config:
@@ -225,3 +186,42 @@ fields:
     max: 
     labelField: 
   label: FAQ Items Repeatable
+- name: slider_images
+  type: field_group_list
+  fields:
+  - name: slider_image_one
+    type: file
+    config:
+      maxSize: 64
+    label: Slider Image One
+  - name: image_one_-_content
+    type: text
+    config:
+      required: false
+    label: Image one - Content
+  - name: slider_image_two
+    type: file
+    config:
+      maxSize: 64
+    label: Slider Image Two
+  - name: image_two_-_content
+    type: text
+    config:
+      required: false
+    label: Image Two - Content
+  - name: slider_image_three
+    type: file
+    config:
+      maxSize: 64
+    label: Slider Image Three
+  - name: image_three_-_content
+    type: text
+    config:
+      required: false
+    label: Image Three - Content
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Slider Images (Not implemented on home page)
+  description: Add the home page slider images here

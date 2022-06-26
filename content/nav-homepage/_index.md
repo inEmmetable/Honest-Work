@@ -83,7 +83,7 @@ blue_section_with_right_image_title_2: Learn the ways to do this
 three_columns_column_one_title_slide_2: Energy
 three_columns_column_one_text_slide_2: The fate of communities around the world are
   shaped in part by the choices energy companies make. Climate change, environmental
-  degradation, human rights impacts - energy companies old and new have work to do.
+  degradation, human rights impacts - energy companies have work to do.
 three_columns_column_three_text_slide_2: Many workers join the healthcare industry
   to help make the world a healthier place. Yet practices must change to improve access
   to medicine - especially among the world's poorest.

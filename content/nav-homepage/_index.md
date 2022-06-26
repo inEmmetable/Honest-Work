@@ -46,7 +46,7 @@ three_columns_column_two_text: What are the biggest issues facing companies acro
   industries that workers can do something about? How's your company faring? Learn
   about your companies' role in relation to climate change, human rights and more.
 three_columns_column_three_title: Finance
-white_section_with_left_image_title_1: Workers making a difference
+white_section_with_left_image_title_1: Making a difference
 white_section_with_text_image_content_bold_1: While renewable energy is our best hope
   for the future those companies too must urgently improve their human rights practices
   if they are to retain their moral legitimacy and social licence.
@@ -56,8 +56,8 @@ white_section_with_text_image_content_normal_1: While renewable energy is our be
 white_section_with_left_image_content_bold_1: Workers have already successfully pushed
   for changes at the companies they work for.
 white_section_with_left_image_content_normal_1: From reducing emissions to dropping
-  problematic clients, workers at places such as Google and Walmart have been instrumental
-  in making their companies better.
+  problematic clients, workers from places as different as Google and Walmart have
+  played a crucial role in making their companies better.
 blue_section_with_right_image_content_bold_1: While renewable energy is our best hope
   for the future those companies too must urgently improve their human rights practices
   if they are to retain their moral legitimacy and social licence.

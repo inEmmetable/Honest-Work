@@ -80,12 +80,11 @@ blue_section_with_right_image_content_normal_2: While renewable energy is our be
   hope for the future those companies too must urgently improve their human rights
   practices if they are to retain their moral legitimacy and social licence.
 blue_section_with_right_image_title_2: Learn the ways to do this
-three_columns_column_one_title_slide_2: The change you can make
-three_columns_column_one_text_slide_2: In today’s hyperconnected world, decisions
-  made by companies and their workers can have major effects on communities at home
-  and around the globe. Below are some of the biggest issues that are common to many
-  companies today, with resources that can help you understand how your company is
-  performing. On the bar to the left you can find information based on specific sectors.
+three_columns_column_one_title_slide_2: Energy
+three_columns_column_one_text_slide_2: The fate of communities around the world will
+  be shaped in part by the choices energy companies make today and in the coming years.
+  Climate change, environmental degradation, human rights impacts - energy companies
+  old and new have work to do.
 three_columns_column_three_text_slide_2: History is full of examples of workers coming
   together to stand up for what is right. In 1862, mill workers in Manchester refused
   to touch cotton picked by US slaves. Australian construction workers pioneered “green
@@ -98,7 +97,7 @@ three_columns_column_two_text_slide_2: Once you’ve identified a change you’d
   some issues are more sensitive than others, so think carefully about the particular
   aspects of your workplace when seeking to make change. Be aware of the risks of
   speaking up. Need inspiration? Check out what workers have already achieved.
-three_columns_column_two_title_slide_2: How to make a change?
+three_columns_column_two_title_slide_2: Consumer goods
 three_columns_column_two_title_slide_3: The change you can make
 three_columns_column_one_title_slide_3: Workers changing the world
 three_columns_column_three_title_slide_3: How to make a change?

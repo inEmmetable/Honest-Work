@@ -68,13 +68,9 @@ white_section_with_left_image_title_2: How can you make a difference?
 white_section_with_left_image_content_bold_2: 'If you already know what you''d like
   to change at your company, what next? '
 white_section_with_left_image_content_normal_2: ''
-blue_section_with_right_image_content_bold_2: While renewable energy is our best hope
-  for the future those companies too must urgently improve their human rights practices
-  if they are to retain their moral legitimacy and social licence.
-blue_section_with_right_image_content_normal_2: While renewable energy is our best
-  hope for the future those companies too must urgently improve their human rights
-  practices if they are to retain their moral legitimacy and social licence.
-blue_section_with_right_image_title_2: Learn the ways to do this
+blue_section_with_right_image_content_bold_2: ''
+blue_section_with_right_image_content_normal_2: ''
+blue_section_with_right_image_title_2: ''
 three_columns_column_one_title_slide_2: Energy
 three_columns_column_one_text_slide_2: The fate of communities around the world are
   shaped in part by the choices energy companies make. Climate change, environmental

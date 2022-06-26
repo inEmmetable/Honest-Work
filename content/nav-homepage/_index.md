@@ -88,9 +88,9 @@ three_columns_column_three_text_slide_2: Many workers join the healthcare indust
   to help make the world a healthier place. Yet practices must change to improve access
   to medicine - especially among the world's poorest.
 three_columns_column_three_title_slide_2: Healthcare
-three_columns_column_two_text_slide_2: Food waste, excessive packaging, fast fashion,
-  problematic supply chains - behind the brands many love are a host of threats to
-  people and planet.
+three_columns_column_two_text_slide_2: In delivering the food, clothes and gadgets
+  that people want and need, companies need to do better to address the impacts of
+  fast fashion, food waste and problematic supply chains.
 three_columns_column_two_title_slide_2: Consumer goods
 three_columns_column_two_title_slide_3: ''
 three_columns_column_one_title_slide_3: ''

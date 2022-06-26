@@ -68,9 +68,9 @@ blue_section_with_right_image_title_1: Learn the ways to do this
 white_section_with_left_image_title_2: How can you make a difference?
 white_section_with_left_image_content_bold_2: 'If you already know what you''d like
   to change at your company, what next? '
-white_section_with_left_image_content_normal_2: Read on to learn about finding other
-  colleagues to join you, getting the support of external stakeholders, and knowing
-  if and when it's time to go public with your concerns.
+white_section_with_left_image_content_normal_2: Learn about finding other colleagues
+  to join you, getting the support of external stakeholders, and knowing if and when
+  it's time to go public with your concerns.
 blue_section_with_right_image_content_bold_2: While renewable energy is our best hope
   for the future those companies too must urgently improve their human rights practices
   if they are to retain their moral legitimacy and social licence.

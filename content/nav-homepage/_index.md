@@ -13,7 +13,7 @@ billboard_text: In today’s hyperconnected world, decisions made by companies a
   workers can have major effects on communities at home and around the globe.
 left_of_email_form: Sign up for updates
 billboard_button_text: Learn More
-billboard_button_link: "/about/about-honest-work/"
+billboard_button_link: "/about/about-honest-work"
 faq_title: FAQ - Ways to improve employee participation
 three_columns___column_one_-_title_: How to make a change?
 three_columns___column_one_-_text: Once you’ve identified a change you’d like to try

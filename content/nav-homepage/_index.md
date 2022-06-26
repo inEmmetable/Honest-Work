@@ -34,11 +34,9 @@ three_columns___column_three-_text: Tech companies operate on the cutting edge o
   cannot be expected to keep up. So it frequently falls to the companies themselves
   to act with care and prudence, and marshall against unforeseen consequences; something
   they have often failed to do.
-three_columns_column_three_text: In today’s hyperconnected world, decisions made by
-  companies and their workers can have major effects on communities at home and around
-  the globe. Below are some of the biggest issues that are common to many companies
-  today, with resources that can help you understand how your company is performing.
-  On the bar to the left you can find information based on specific sectors.
+three_columns_column_three_text: Finance powers the entire economy, and financial
+  institutions have major influence over how companies act and what projects get financed.
+  It's time they started aligning that influence with the common good.
 three_columns_column_one_title: Technology
 three_columns_column_one_text: Tech workers have been on the forefront of employee
   activism in recent years. Privacy, content moderation and an excessive focus on
@@ -47,7 +45,7 @@ three_columns_column_two_title: Key issues
 three_columns_column_two_text: What are the biggest issues facing companies across
   industries that workers can do something about? How's your company faring? Learn
   about climate change, human rights and more.
-three_columns_column_three_title: The change you can make
+three_columns_column_three_title: Finance
 white_section_with_left_image_title_1: Learn the ways to do this
 white_section_with_text_image_content_bold_1: While renewable energy is our best hope
   for the future those companies too must urgently improve their human rights practices

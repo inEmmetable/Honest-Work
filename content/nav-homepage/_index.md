@@ -64,13 +64,13 @@ blue_section_with_right_image_content_normal_1: Learn about finding other collea
   to join you, getting the support of external stakeholders, and knowing if and when
   it's time to go public with your concerns.
 blue_section_with_right_image_title_1: How can you make a difference?
-white_section_with_left_image_title_2: How can you make a difference?
-white_section_with_left_image_content_bold_2: 'If you already know what you''d like
-  to change at your company, what next? '
+white_section_with_left_image_title_2: ''
+white_section_with_left_image_content_bold_2: ''
 white_section_with_left_image_content_normal_2: ''
-blue_section_with_right_image_content_bold_2: ''
+blue_section_with_right_image_content_bold_2: 'If you already know what you''d like
+  to change at your company, what next? '
 blue_section_with_right_image_content_normal_2: ''
-blue_section_with_right_image_title_2: ''
+blue_section_with_right_image_title_2: How can you make a difference?
 three_columns_column_one_title_slide_2: Energy
 three_columns_column_one_text_slide_2: The fate of communities around the world are
   shaped in part by the choices energy companies make. Climate change, environmental

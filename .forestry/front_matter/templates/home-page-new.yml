@@ -196,11 +196,6 @@ fields:
     schema:
       format: markdown
   label: Blue Section with Right Image Content Bold 1
-- name: faq_title
-  type: text
-  config:
-    required: false
-  label: FAQ Title
 - name: blue_section_with_right_image_content_normal_1
   type: textarea
   default: ''
@@ -210,6 +205,16 @@ fields:
     schema:
       format: markdown
   label: Blue Section with Right Image Content Normal 1
+- name: blue_section_with_right_image_link_1
+  type: text
+  config:
+    required: false
+  label: Blue Section with Right Image Link 1
+- name: faq_title
+  type: text
+  config:
+    required: false
+  label: FAQ Title
 - name: blue_section_with_right_image_title_2
   type: text
   config:

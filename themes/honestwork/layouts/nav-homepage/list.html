@@ -484,5 +484,19 @@
         color: rgb(14, 174, 248);
         }
     </style>
+
+    <script>
+        $(window).on('load', function () {
+            $(document).prop('title', 'Honest Work | Home');
+            function changeTitle() {
+                var title = $(document).prop('title'); 
+                if (title.indexOf('>>>') == -1) {
+                    setTimeout(changeTitle, 3000);  
+                    $(document).prop('title', '>'+title);
+                }
+            }
+            changeTitle();
+        });
+    </script>
 </body>
 </html>

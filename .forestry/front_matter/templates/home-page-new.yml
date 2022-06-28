@@ -214,7 +214,7 @@ fields:
   type: text
   config:
     required: false
-  label: FAQ Title
+  label: FAQ Main Title
 - name: blue_section_with_right_image_title_2
   type: text
   config:

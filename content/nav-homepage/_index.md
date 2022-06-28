@@ -96,5 +96,8 @@ three_columns_column_three_link: "/what-to-change/finance/"
 three_columns_column_one_link_slide_2: "/what-to-change/energy/"
 three_columns_column_two_link_slide_2: "/what-to-change/consumer-goods/"
 three_columns_column_three_link_slide_2: "/what-to-change/healthcare/"
+white_section_with_left_image_link_1: "/what-to-change/healthcare/"
+blue_section_with_right_image_link_1: "/what-to-change/energy/"
+blue_section_with_right_image_link_2: "/what-to-change/consumer-goods/"
 
 ---

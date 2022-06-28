@@ -147,29 +147,6 @@ fields:
     schema:
       format: markdown
   label: White Section with Left Image Content Normal 1
-- name: white_section_with_left_image_title_2
-  type: text
-  config:
-    required: false
-  label: White Section with Left Image Title 2
-- name: white_section_with_left_image_content_bold_2
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: White Section with Left Image Content Bold 2
-- name: white_section_with_left_image_content_normal_2
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: White Section with Left Image Content Normal 2
 - name: blue_section_with_right_image_title_1
   type: text
   config:
@@ -184,6 +161,11 @@ fields:
     schema:
       format: markdown
   label: Blue Section with Right Image Content Bold 1
+- name: faq_title
+  type: text
+  config:
+    required: false
+  label: FAQ Title
 - name: blue_section_with_right_image_content_normal_1
   type: textarea
   default: ''
@@ -216,54 +198,3 @@ fields:
     schema:
       format: markdown
   label: Blue Section with Right Image Content Normal 2
-- name: faq_title
-  type: text
-  config:
-    required: false
-  label: FAQ Title
-- name: faq_items_repeatable
-  type: field_group_list
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: FAQ Items Repeatable
-- name: slider_images
-  type: field_group_list
-  fields:
-  - name: slider_image_one
-    type: file
-    config:
-      maxSize: 64
-    label: Slider Image One
-  - name: image_one_-_content
-    type: text
-    config:
-      required: false
-    label: Image one - Content
-  - name: slider_image_two
-    type: file
-    config:
-      maxSize: 64
-    label: Slider Image Two
-  - name: image_two_-_content
-    type: text
-    config:
-      required: false
-    label: Image Two - Content
-  - name: slider_image_three
-    type: file
-    config:
-      maxSize: 64
-    label: Slider Image Three
-  - name: image_three_-_content
-    type: text
-    config:
-      required: false
-    label: Image Three - Content
-  config:
-    min: 
-    max: 
-    labelField: 
-  label: Slider Images (Not implemented on home page)
-  description: Add the home page slider images here

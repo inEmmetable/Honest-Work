@@ -490,7 +490,7 @@
             $(document).prop('title', 'Honest Work | Home');
             function changeTitle() {
                 var title = $(document).prop('title'); 
-                if (title.indexOf('>>>') == -1) {
+                if (title.indexOf('') == -1) {
                     setTimeout(changeTitle, 3000);  
                     $(document).prop('title', '>'+title);
                 }

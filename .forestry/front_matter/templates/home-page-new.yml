@@ -177,6 +177,11 @@ fields:
     schema:
       format: markdown
   label: White Section with Left Image Content Normal 1
+- name: white_section_with_left_image_link_1
+  type: text
+  config:
+    required: false
+  label: White Section with Left Image Link 1
 - name: blue_section_with_right_image_title_1
   type: text
   config:

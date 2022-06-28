@@ -50,6 +50,11 @@ fields:
     schema:
       format: markdown
   label: Three Columns Column one Text
+- name: three_columns_column_one_link
+  type: text
+  config:
+    required: false
+  label: Three Columns Column one Link
 - name: three_columns_column_two_title
   type: textarea
   default: ''
@@ -68,6 +73,11 @@ fields:
     schema:
       format: markdown
   label: Three Columns Column two Text
+- name: three_columns_column_two_link
+  type: text
+  config:
+    required: false
+  label: Three Columns Column two Link
 - name: three_columns_column_three_title
   type: text
   config:
@@ -82,6 +92,11 @@ fields:
     schema:
       format: markdown
   label: Three Columns Column three Text
+- name: three_columns_column_three_link
+  type: text
+  config:
+    required: false
+  label: Three Columns Column three Link
 - name: three_columns_column_one_title_slide_2
   type: text
   config:

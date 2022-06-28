@@ -127,5 +127,10 @@ faq_content_two: |-
                                   Potentially connect with other workers at your company who you might not have known where also passionate about making a change, and start planning together!
                               </li>
                           </ul>
+faq_title_three: Who can join the Honest Work community?
+faq_content_three: |-
+  We’re open to all workers who are passionate about making the world a better place. Though to ensure workers feel able to talk freely, we will generally exclude anyone in a management or human resources role, journalists seeking to do reporting on other workers, and those seeking to promote products or services to other members.
+
+  Members will be allowed to remain anonymous on the platform, but we will seek to validate you meet the above requirements during registration. Fair enough?
 
 ---

@@ -110,23 +110,13 @@ faq_content_one: |-
   Honest Work has been set up to help more workers change their companies for the better. Here you can:
 faq_title_two: How can you join the Honest Work community?
 faq_content_two: |-
-  <ul>
-                              <li>
-                                  Give and receive tips with other workers about what works in changing an organisation from within
-                              </li>
-                              <li>
-                                  Learn more about the issues and solutions relevant to your industry
-                              </li>
-                              <li>
-                                  Contribute content for the Honest Work website
-                              </li>
-                              <li>
-                                  Meet other people passionate about being the change they want to see in the world
-                              </li>
-                              <li>
-                                  Potentially connect with other workers at your company who you might not have known where also passionate about making a change, and start planning together!
-                              </li>
-                          </ul>
+  Many of us grow up wanting to make the world a better place.
+
+  That’s not always easy, especially in that place where we spend so much of our time: work. It can be hard to find employers that live up to our values, with so many companies contributing to global problems in some way, be it climate change, human rights abuses or aggressive tax avoidance. And so we feel we have little choice but to keep our head down and get on with things.
+
+  Yet that’s starting to change. Workers in every industry are increasingly coming together and pushing the companies they work for to do better. Workers have been getting their companies to commit to cutting their emissions, stop whitewashing the reputations of controversial clients, and stop stocking dangerous weapons in retailers.
+
+  Honest Work has been set up to help more workers change their companies for the better. Here you can:
 faq_title_three: Who can join the Honest Work community?
 faq_content_three: |-
   We’re open to all workers who are passionate about making the world a better place. Though to ensure workers feel able to talk freely, we will generally exclude anyone in a management or human resources role, journalists seeking to do reporting on other workers, and those seeking to promote products or services to other members.

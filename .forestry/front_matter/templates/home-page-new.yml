@@ -215,6 +215,20 @@ fields:
   config:
     required: false
   label: FAQ Main Title
+- name: faq_title_one
+  type: text
+  config:
+    required: false
+  label: FAQ Title One
+- name: faq_content_one
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: FAQ Content One
 - name: blue_section_with_right_image_title_2
   type: text
   config:

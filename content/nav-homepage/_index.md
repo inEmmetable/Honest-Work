@@ -108,5 +108,24 @@ faq_content_one: |-
   Yet that’s starting to change. Workers in every industry are increasingly coming together and pushing the companies they work for to do better. Workers have been getting their companies to commit to cutting their emissions, stop whitewashing the reputations of controversial clients, and stop stocking dangerous weapons in retailers.
 
   Honest Work has been set up to help more workers change their companies for the better. Here you can:
+faq_title_two: How can you join the Honest Work community?
+faq_content_two: |-
+  <ul>
+                              <li>
+                                  Give and receive tips with other workers about what works in changing an organisation from within
+                              </li>
+                              <li>
+                                  Learn more about the issues and solutions relevant to your industry
+                              </li>
+                              <li>
+                                  Contribute content for the Honest Work website
+                              </li>
+                              <li>
+                                  Meet other people passionate about being the change they want to see in the world
+                              </li>
+                              <li>
+                                  Potentially connect with other workers at your company who you might not have known where also passionate about making a change, and start planning together!
+                              </li>
+                          </ul>
 
 ---

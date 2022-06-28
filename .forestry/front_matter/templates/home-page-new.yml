@@ -238,3 +238,8 @@ fields:
     schema:
       format: markdown
   label: Blue Section with Right Image Content Normal 2
+- name: blue_section_with_right_image_link_2
+  type: text
+  config:
+    required: false
+  label: Blue Section with Right Image Link 2

@@ -67,10 +67,10 @@ blue_section_with_right_image_title_1: How can you make a difference?
 white_section_with_left_image_title_2: ''
 white_section_with_left_image_content_bold_2: ''
 white_section_with_left_image_content_normal_2: ''
-blue_section_with_right_image_content_bold_2: 'If you already know what you''d like
-  to change at your company, what next? '
+blue_section_with_right_image_content_bold_2: We're building a community of workers
+  across companies and sectors who can share tips and support each other - join them!
 blue_section_with_right_image_content_normal_2: ''
-blue_section_with_right_image_title_2: How can you make a difference?
+blue_section_with_right_image_title_2: Connect with like-minded workers
 three_columns_column_one_title_slide_2: Energy
 three_columns_column_one_text_slide_2: The fate of communities around the world are
   shaped in part by the choices energy companies make. Climate change, environmental
@@ -98,7 +98,7 @@ three_columns_column_two_link_slide_2: "/what-to-change/consumer-goods/"
 three_columns_column_three_link_slide_2: "/what-to-change/healthcare/"
 white_section_with_left_image_link_1: "/what-to-change/healthcare/"
 blue_section_with_right_image_link_1: "/what-to-change/energy/"
-blue_section_with_right_image_link_2: "/what-to-change/consumer-goods/"
+blue_section_with_right_image_link_2: "/about/joining-the-community/"
 faq_title_one: What is honest work and how employees can change the world?
 faq_content_one: |-
   Many of us grow up wanting to make the world a better place.

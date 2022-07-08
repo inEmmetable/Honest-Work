@@ -14,7 +14,7 @@ billboard_text: In today’s hyperconnected world, decisions made by companies a
 left_of_email_form: Sign up for updates
 billboard_button_text: Learn More
 billboard_button_link: "/about/about-honest-work"
-faq_title: FAQ - Ways to improve employee participation
+faq_title: Frequently Asked Questions
 three_columns___column_one_-_title_: How to make a change?
 three_columns___column_one_-_text: Once you’ve identified a change you’d like to try
   and make at your company, where do you begin? Company cultures differ and some issues
@@ -99,15 +99,14 @@ three_columns_column_three_link_slide_2: "/what-to-change/healthcare/"
 white_section_with_left_image_link_1: "/what-to-change/healthcare/"
 blue_section_with_right_image_link_1: "/what-to-change/energy/"
 blue_section_with_right_image_link_2: "/about/joining-the-community/"
-faq_title_one: What is honest work and how employees can change the world?
+faq_title_one: How can Honest Work help me make a change where I work?
 faq_content_one: |-
-  Many of us grow up wanting to make the world a better place.
+  Honest Work has been founded on the belief that workers can transform the companies they work for to help solve society's problems. Here you can:
 
-  That’s not always easy, especially in that place where we spend so much of our time: work. It can be hard to find employers that live up to our values, with so many companies contributing to global problems in some way, be it climate change, human rights abuses or aggressive tax avoidance. And so we feel we have little choice but to keep our head down and get on with things.
-
-  Yet that’s starting to change. Workers in every industry are increasingly coming together and pushing the companies they work for to do better. Workers have been getting their companies to commit to cutting their emissions, stop whitewashing the reputations of controversial clients, and stop stocking dangerous weapons in retailers.
-
-  Honest Work has been set up to help more workers change their companies for the better. Here you can:
+  (i) find information and resources on how your company may be contributing to global problems and what they can do to change
+  (ii) learn how to go about advocating for change internally and get colleagues on board
+  (iii) join an online community of fellow workers for support, advice and learning
+  (iv) subscribe above to a monthly newsletter on the latest in employee activism, with tips and opportunities to make a difference
 faq_title_two: How can you join the Honest Work community?
 faq_content_two: |-
   Many of us grow up wanting to make the world a better place.

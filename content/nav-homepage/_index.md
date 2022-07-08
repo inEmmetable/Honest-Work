@@ -63,7 +63,7 @@ blue_section_with_right_image_content_bold_1: 'If you already know what you''d l
 blue_section_with_right_image_content_normal_1: Learn about finding other colleagues
   to join you, getting the support of external stakeholders, and knowing if and when
   it's time to go public with your concerns.
-blue_section_with_right_image_title_1: How can you make a difference?
+blue_section_with_right_image_title_1: Making a change from within
 white_section_with_left_image_title_2: ''
 white_section_with_left_image_content_bold_2: ''
 white_section_with_left_image_content_normal_2: ''

@@ -108,18 +108,8 @@ faq_content_one: |-
   (iii) join an online community of fellow workers for support, advice and learning
   (iv) subscribe above to a monthly newsletter on the latest in employee activism, with tips and opportunities to make a difference
 faq_title_two: How can you join the Honest Work community?
-faq_content_two: |-
-  Many of us grow up wanting to make the world a better place.
-
-  That’s not always easy, especially in that place where we spend so much of our time: work. It can be hard to find employers that live up to our values, with so many companies contributing to global problems in some way, be it climate change, human rights abuses or aggressive tax avoidance. And so we feel we have little choice but to keep our head down and get on with things.
-
-  Yet that’s starting to change. Workers in every industry are increasingly coming together and pushing the companies they work for to do better. Workers have been getting their companies to commit to cutting their emissions, stop whitewashing the reputations of controversial clients, and stop stocking dangerous weapons in retailers.
-
-  Honest Work has been set up to help more workers change their companies for the better. Here you can:
-faq_title_three: Who can join the Honest Work community?
-faq_content_three: |-
-  We’re open to all workers who are passionate about making the world a better place. Though to ensure workers feel able to talk freely, we will generally exclude anyone in a management or human resources role, journalists seeking to do reporting on other workers, and those seeking to promote products or services to other members.
-
-  Members will be allowed to remain anonymous on the platform, but we will seek to validate you meet the above requirements during registration. Fair enough?
+faq_content_two: "Many of us grow up wanting to make the world a better place.\n\n"
+faq_title_three: I have another question.
+faq_content_three: Get in touch!
 
 ---

@@ -120,5 +120,10 @@ home_page_faq:
   faq:
   - question: Q Test
     answer: A Test
+- template: block-faq
+  title: Q Title 2
+  faq:
+  - question: Q 2 test
+    answer: A 1 test
 
 ---

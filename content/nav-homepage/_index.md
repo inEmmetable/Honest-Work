@@ -114,5 +114,11 @@ faq_content_three: Get in touch!
 faq_test_block:
 - template: block-text
   content: '[test](test.com "test")'
+home_page_faq:
+- template: block-faq
+  title: FAQ Block
+  faq:
+  - question: Q Test
+    answer: A Test
 
 ---

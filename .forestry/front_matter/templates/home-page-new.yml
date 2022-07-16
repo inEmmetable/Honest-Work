@@ -293,3 +293,11 @@ fields:
   config:
     min: 
     max: 
+- name: home_page_faq
+  type: blocks
+  label: Home Page FAQ
+  template_types:
+  - block-faq
+  config:
+    min: 
+    max: 

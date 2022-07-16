@@ -285,3 +285,11 @@ fields:
   config:
     required: false
   label: Blue Section with Right Image Link 2
+- name: faq_test_block
+  type: blocks
+  label: FAQ Test Block
+  template_types:
+  - block-text
+  config:
+    min: 
+    max: 

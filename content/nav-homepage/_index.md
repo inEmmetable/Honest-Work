@@ -116,7 +116,7 @@ faq_test_block:
   content: '[test](test.com "test")'
 home_page_faq:
 - template: block-faq
-  title: FAQ Block
+  title: FAQ title 1
   faq:
   - question: Q Test
     answer: A Test

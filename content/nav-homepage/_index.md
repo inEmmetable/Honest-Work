@@ -130,5 +130,7 @@ home_page_image_1:
   image: "/uploads/girl-laptop.svg"
 - template: block-image
   image: "/uploads/fundamentals.svg"
+- template: block-image
+  image: "/uploads/fundamentals-right.svg"
 
 ---

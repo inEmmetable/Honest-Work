@@ -128,5 +128,7 @@ home_page_faq:
 home_page_image_1:
 - template: block-image
   image: "/uploads/girl-laptop.svg"
+- template: block-image
+  image: "/uploads/fundamentals.svg"
 
 ---

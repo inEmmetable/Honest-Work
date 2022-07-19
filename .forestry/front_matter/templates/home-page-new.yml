@@ -301,3 +301,11 @@ fields:
   config:
     min: 
     max: 
+- name: home_page_image_1
+  type: blocks
+  template_types:
+  - block-image
+  config:
+    min: 
+    max: 
+  label: Home page image 1

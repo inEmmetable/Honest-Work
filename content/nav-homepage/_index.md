@@ -125,5 +125,12 @@ home_page_faq:
   faq:
   - question: Q 2 test
     answer: A 1 test
+home_page_image_1:
+- template: block-image
+  image: "/uploads/girl-laptop.svg"
+- template: block-image
+  image: "/uploads/fundamentals.svg"
+- template: block-image
+  image: "/uploads/fundamentals-right.svg"
 
 ---

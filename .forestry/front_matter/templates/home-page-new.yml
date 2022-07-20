@@ -309,3 +309,5 @@ fields:
     min: 
     max: 
   label: Home page image 1
+pages:
+- content/_index.md

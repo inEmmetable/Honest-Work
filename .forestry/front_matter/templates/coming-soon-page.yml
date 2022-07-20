@@ -17,5 +17,3 @@ fields:
     schema:
       format: markdown
   label: Content
-pages:
-- content/_index.md

@@ -110,7 +110,7 @@ faq_content_one: |-
 faq_title_two: How can you join the Honest Work community?
 faq_content_two: "Many of us grow up wanting to make the world a better place.\n\n"
 faq_title_three: I have another question.
-faq_content_three: Get in touch!
+faq_content_three: Get in touch! https://honestwork.org/about/contact-us/
 faq_test_block:
 - template: block-text
   content: '[test](test.com "test")'

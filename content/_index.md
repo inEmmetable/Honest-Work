@@ -58,7 +58,7 @@ white_section_with_left_image_title_1 = "Making a difference"
 template = "block-faq"
 title = "FAQ Title"
 [[home_page_faq.faq]]
-answer = "Answer 1"
-question = "Question 1"
+answer = "Honest Work has been founded on the belief that workers can transform the companies they work for to help solve society's problems. Here you can: \n\n1. find information and resources on how your company may be contributing to global problems and what they can do to change\n2. learn how to go about advocating for change internally and get colleagues on board\n3. join an online community of fellow workers for support, advice and learning\n4. subscribe above to a monthly newsletter on the latest in employee activism, with tips and opportunities to make a difference\n\n## "
+question = "How can HW help me"
 
 +++

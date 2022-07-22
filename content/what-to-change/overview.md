@@ -1,7 +1,7 @@
 +++
 content = ""
 header_image = "/uploads/home-change-doorway-2.png"
-password_protected = true
+password_protected = false
 show_sub_navigation = true
 text_alignment = ""
 title = "The change you can make"

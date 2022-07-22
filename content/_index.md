@@ -25,7 +25,6 @@ header_image = ""
 hero_image = ""
 hero_sub_title = ""
 hero_title = ""
-home_page_faq = []
 home_page_image_1 = []
 left_of_email_form = "Sign up for updates"
 password_protected = false
@@ -55,5 +54,11 @@ white_section_with_left_image_content_bold_1 = "Workers have already successfull
 white_section_with_left_image_content_normal_1 = "From reducing emissions to dropping problematic clients, workers from places as different as Google and Walmart have played a crucial role in making their companies better."
 white_section_with_left_image_link_1 = "/what-to-change/healthcare/"
 white_section_with_left_image_title_1 = "Making a difference"
+[[home_page_faq]]
+template = "block-faq"
+title = "FAQ Title"
+[[home_page_faq.faq]]
+answer = "Answer 1"
+question = "Question 1"
 
 +++

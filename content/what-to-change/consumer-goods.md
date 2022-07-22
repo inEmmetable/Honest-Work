@@ -1,7 +1,7 @@
 +++
 content = ""
 header_image = "/uploads/What - Consumer goods.jpg"
-password_protected = true
+password_protected = false
 show_sub_navigation = true
 text_alignment = ""
 title = "Consumer goods"

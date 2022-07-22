@@ -1,7 +1,7 @@
 +++
 content = ""
 header_image = "/uploads/whatsapp-image-2020-06-29-at-17-55-11.jpeg"
-password_protected = true
+password_protected = false
 show_sub_navigation = true
 text_alignment = ""
 title = "Finance"

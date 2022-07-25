@@ -20,7 +20,7 @@ sections:
     * subscribe below to a monthly newsletter on the latest in employee activism, with tips and opportunities to make a difference
 
     When you’re just one worker at a company that employs thousands, it can seem impossible to change things. But chances are you’re not alone, and by coming together you can make your company, your industry and the world a better place.
-password_protected: true
+password_protected: false
 text_alignment: ''
 menu:
   main:

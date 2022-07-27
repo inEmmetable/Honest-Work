@@ -120,11 +120,8 @@ home_page_faq:
   faq:
   - question: Q Test
     answer: A Test
-- template: block-faq
-  title: Q Title 2
-  faq:
-  - question: Q 2 test
-    answer: A 1 test
+  - question: a2
+    answer: q2
 home_page_image_1:
 - template: block-image
   image: "/uploads/girl-laptop.svg"

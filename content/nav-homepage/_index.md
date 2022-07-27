@@ -132,5 +132,10 @@ home_page_image_1:
   image: "/uploads/fundamentals.svg"
 - template: block-image
   image: "/uploads/fundamentals-right.svg"
+faq:
+- question: q1
+  answer: a1
+- question: q2
+  answer: a2
 
 ---

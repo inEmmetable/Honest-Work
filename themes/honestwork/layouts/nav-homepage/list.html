@@ -473,10 +473,9 @@
               <h3>{{.}}</h3>
             </div>
             {{end}}
-            <div id="basicsAccordion">
-            <!-- <div id="basicsAccordion-{{$sectionNumber}}"> -->
+            <div id="basicsAccordion-{{$sectionNumber}}">
               {{ range $index, $element := .faq }}
-              <!-- {{ $faqPointer := printf "%d-%d" $sectionNumber $index }} -->
+              {{ $faqPointer := printf "%d-%d" $sectionNumber $index }}
               <div class="card mb-3">
                 <div class="card-header u-card-header" id="basicsHeading{{$faqPointer}}">
                   <h5 class="mb-0">

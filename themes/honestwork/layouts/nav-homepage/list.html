@@ -305,7 +305,7 @@
             <h2 class="text-center mb-4">
                 {{.Params.faq_title}}
             </h2>
-            {{ range .Params.home_faq}}
+            {{ range .Params.home_faq_repeat}}
                 {{ if (eq .template "block-faq") }}
                     {{ range $index, $element := .faq }}
                         <div class="accordion accordion-flush" id="employee-participation">
@@ -442,7 +442,7 @@
             </div>
         </div>
     </section>
-    {{ range .Params.home_faq}}
+    {{ range .Params.home_faq_repeat}}
     <section>
         {{ if (eq .template "block-faq") }}
         <div class="col-12">

@@ -298,12 +298,5 @@ fields:
   config: {}
   template: block-faq
   label: Home FAQ
-- name: testfaq
-  type: blocks
-  label: testfaq
-  template_types: []
-  config:
-    min: 
-    max: 
 pages:
 - content/_index.md

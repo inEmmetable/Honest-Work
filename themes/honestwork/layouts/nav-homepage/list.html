@@ -476,11 +476,11 @@
             <div id="basicsAccordion">
               {{ range $index, $element := .faq }}
               <div class="card mb-3">
-                <div class="card-header u-card-header" id="basicsHeading{{$faqPointer}}">
+                <div class="card-header u-card-header" id="basicsHeading">
                   <h5 class="mb-0">
                     <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn p-3 collapsed"
-                      data-toggle="collapse" data-target="#basicsCollapse{{$faqPointer}}" aria-expanded="true"
-                      aria-controls="basicsCollapse{{$faqPointer}}">
+                      data-toggle="collapse" data-target="#basicsCollapse" aria-expanded="true"
+                      aria-controls="basicsCollapse">
                       {{.question}}
                       <span class="u-card-btn__arrow">
                         <span class="fa fa-arrow-down small"></span>
@@ -488,8 +488,8 @@
                     </button>
                   </h5>
                 </div>
-                <div id="basicsCollapse{{$faqPointer}}" class="collapse" aria-labelledby="basicsHeading{{$faqPointer}}"
-                  data-parent="#basicsAccordion-{{$sectionNumber}}">
+                <div id="basicsCollapse" class="collapse" aria-labelledby="basicsHeading"
+                  data-parent="#basicsAccordion">
                   <div class="card-body u-card-body">
                     {{ partial "markdown" (dict "context" . "markdown" .answer) }}
                   </div>

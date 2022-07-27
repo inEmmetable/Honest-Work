@@ -153,5 +153,30 @@ faq:
     4. subscribe above to a monthly newsletter on the latest in employee activism, with tips and opportunities to make a difference
 - question: I have another question
   answer: "[Contact us](https://honestwork.org/about/contact-us/)!"
+home_faq_repeat:
+- template: block-faq
+  faq:
+  - question: Why should I do employee activism?
+    answer: Unique power
+  - question: I want to positively influence my company
+    answer: The ["What to change"](https://honestwork.org/what-to-change/overview/)
+      section of this website sets out a number of key issues that cut across companies
+      as well as some sector-specific challenges. These are a starting point to help
+      you think about the biggest changes you can make. These focus on concrete changes
+      that workers can ask for over the political statements that sometimes are a
+      source of heated discussions within companies. Ultimately, addressing core,
+      problematic business practices are more likely to positively impact society
+      than empty corporate statements.
+  - question: How can HW help me
+    answer: |-
+      Honest Work has been founded on the belief that workers can transform the companies they work for to help solve society's problems. Here you can:
+
+      1. find information and resources on how your company may be contributing to global problems and what they can do to change
+      2. learn how to go about advocating for change internally and get colleagues on board
+      3. join an online community of fellow workers for support, advice and learning
+      4. subscribe above to a monthly newsletter on the latest in employee activism, with tips and opportunities to make a difference
+  - question: I have another question
+    answer: "[Contact us](https://honestwork.org/about/contact-us/)!"
+  title: FAQ Title
 
 ---

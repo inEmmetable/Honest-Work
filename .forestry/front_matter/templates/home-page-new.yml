@@ -293,6 +293,14 @@ fields:
     min: 
     max: 
   label: Home page image 1
+- name: home_faq_repeat
+  type: blocks
+  label: Home FAQ
+  template_types:
+  - block-faq
+  config:
+    min: 
+    max: 
 - name: home_faq
   type: include
   config: {}

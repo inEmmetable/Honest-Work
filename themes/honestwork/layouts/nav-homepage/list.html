@@ -464,6 +464,44 @@
             </div>
         </div>
     </section>
+    <section>
+        {{ if (eq .template "block-faq") }}
+        <div class="col-12 {{.template}}">
+          <div id="basics">
+            {{ with .title}}
+            <div class="mb-3">
+              <h3>{{.}}</h3>
+            </div>
+            {{end}}
+            <div id="basicsAccordion-{{$sectionNumber}}">
+              {{ range $index, $element := .faq }}
+              {{ $faqPointer := printf "%d-%d" $sectionNumber $index }}
+              <div class="card mb-3">
+                <div class="card-header u-card-header" id="basicsHeading{{$faqPointer}}">
+                  <h5 class="mb-0">
+                    <button class="btn btn-link btn-block d-flex justify-content-between u-card-btn p-3 collapsed"
+                      data-toggle="collapse" data-target="#basicsCollapse{{$faqPointer}}" aria-expanded="true"
+                      aria-controls="basicsCollapse{{$faqPointer}}">
+                      {{.question}}
+                      <span class="u-card-btn__arrow">
+                        <span class="fa fa-arrow-down small"></span>
+                      </span>
+                    </button>
+                  </h5>
+                </div>
+                <div id="basicsCollapse{{$faqPointer}}" class="collapse" aria-labelledby="basicsHeading{{$faqPointer}}"
+                  data-parent="#basicsAccordion-{{$sectionNumber}}">
+                  <div class="card-body u-card-body">
+                    {{ partial "markdown" (dict "context" . "markdown" .answer) }}
+                  </div>
+                </div>
+              </div>
+              {{end}}
+            </div>
+          </div>
+        </div>
+        {{end}}
+    </section>
     {{- partial "homepage-footer.html" . -}}
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>

@@ -133,7 +133,7 @@ home_page_image_1:
   image: "/uploads/fundamentals-right.svg"
 faq:
 - question: Why should I do employee activism?
-  answer: Unique power.
+  answer: Unique power
 - question: I want to positively influence my company
   answer: The ["What to change"](https://honestwork.org/what-to-change/overview/)
     section of this website sets out a number of key issues that cut across companies
@@ -142,7 +142,7 @@ faq:
     that workers can ask for over the political statements that sometimes are a source
     of heated discussions within companies. Ultimately, addressing core, problematic
     business practices are more likely to positively impact society than empty corporate
-    statements.
+    statements
 - question: How can HW help me
   answer: |-
     Honest Work has been founded on the belief that workers can transform the companies they work for to help solve society's problems. Here you can:

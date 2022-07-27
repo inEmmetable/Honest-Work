@@ -473,7 +473,8 @@
               <h3>{{.}}</h3>
             </div>
             {{end}}
-            <div id="basicsAccordion-{{$sectionNumber}}">
+            <div id="basicsAccordion">
+            <!-- <div id="basicsAccordion-{{$sectionNumber}}"> -->
               {{ range $index, $element := .faq }}
               <!-- {{ $faqPointer := printf "%d-%d" $sectionNumber $index }} -->
               <div class="card mb-3">

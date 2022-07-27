@@ -49,11 +49,23 @@ three_columns_column_two_text = "What are the biggest issues facing companies ac
 three_columns_column_two_text_slide_2 = "In delivering the food, clothes and gadgets that people want and need, companies need to do better to address the impacts of fast fashion, food waste and problematic supply chains."
 three_columns_column_two_title = "Key issues"
 three_columns_column_two_title_slide_2 = "Consumer goods"
-title = "Coming soon"
+title = "FAQ Title New and improved"
 white_section_with_left_image_content_bold_1 = "Workers have already successfully pushed for changes at the companies they work for."
 white_section_with_left_image_content_normal_1 = "From reducing emissions to dropping problematic clients, workers from places as different as Google and Walmart have played a crucial role in making their companies better."
 white_section_with_left_image_link_1 = "/what-to-change/healthcare/"
 white_section_with_left_image_title_1 = "Making a difference"
+[[faq]]
+answer = "Unique power"
+question = "Why should I do employee activism?"
+[[faq]]
+answer = "The [\"What to change\"](https://honestwork.org/what-to-change/overview/) section of this website sets out a number of key issues that cut across companies as well as some sector-specific challenges. These are a starting point to help you think about the biggest changes you can make. These focus on concrete changes that workers can ask for over the political statements that sometimes are a source of heated discussions within companies. Ultimately, addressing core, problematic business practices are more likely to positively impact society than empty corporate statements."
+question = "I want to positively influence my company"
+[[faq]]
+answer = "Honest Work has been founded on the belief that workers can transform the companies they work for to help solve society's problems. Here you can:\n\n1. find information and resources on how your company may be contributing to global problems and what they can do to change\n2. learn how to go about advocating for change internally and get colleagues on board\n3. join an online community of fellow workers for support, advice and learning\n4. subscribe above to a monthly newsletter on the latest in employee activism, with tips and opportunities to make a difference"
+question = "How can HW help me"
+[[faq]]
+answer = "[Contact us](https://honestwork.org/about/contact-us/)!"
+question = "I have another question"
 [[home_page_faq]]
 template = "block-faq"
 title = "FAQ Title"

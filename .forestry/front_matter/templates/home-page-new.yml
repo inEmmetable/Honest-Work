@@ -301,10 +301,5 @@ fields:
   config:
     min: 
     max: 
-- name: home_faq
-  type: include
-  config: {}
-  template: block-faq
-  label: Home FAQ
 pages:
 - content/_index.md

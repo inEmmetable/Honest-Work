@@ -133,7 +133,7 @@ home_page_image_1:
   image: "/uploads/fundamentals-right.svg"
 faq:
 - question: Why should I do employee activism?
-  answer: Unique power
+  answer: Unique power.
 - question: I want to positively influence my company
   answer: The ["What to change"](https://honestwork.org/what-to-change/overview/)
     section of this website sets out a number of key issues that cut across companies

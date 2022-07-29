@@ -270,14 +270,16 @@ fields:
 - name: home_page_image_3
   type: blocks
   label: Home page image 3
-  template_types: []
+  template_types:
+  - block-image
   config:
     min: 
     max: 
 - name: home_page_image_4
   type: blocks
   label: Home page image 4
-  template_types: []
+  template_types:
+  - block-image
   config:
     min: 
     max: 

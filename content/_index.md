@@ -25,7 +25,6 @@ header_image = ""
 hero_image = ""
 hero_sub_title = ""
 hero_title = ""
-home_page_image_1 = []
 left_of_email_form = "Sign up for updates"
 password_protected = false
 sections = []
@@ -97,5 +96,8 @@ question = "How can HW help me"
 [[home_page_faq.faq]]
 answer = "[Contact us](https://honestwork.org/about/contact-us/)!"
 question = "I have another question"
+[[home_page_image_1]]
+image = "/uploads/group-honest-work.png"
+template = "block-image"
 
 +++

@@ -210,53 +210,6 @@ fields:
   config:
     required: false
   label: Blue Section with Right Image Link 1
-- name: faq_title
-  type: text
-  config:
-    required: false
-  label: FAQ Main Title
-- name: faq_title_one
-  type: text
-  config:
-    required: false
-  label: FAQ Title One
-- name: faq_content_one
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: FAQ Content One
-- name: faq_title_two
-  type: text
-  config:
-    required: false
-  label: FAQ Title Two
-- name: faq_content_two
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: FAQ Content Two
-- name: faq_title_three
-  type: text
-  config:
-    required: false
-  label: FAQ Title Three
-- name: faq_content_three
-  type: textarea
-  default: ''
-  config:
-    required: false
-    wysiwyg: false
-    schema:
-      format: markdown
-  label: FAQ Content Three
 - name: blue_section_with_right_image_title_2
   type: text
   config:
@@ -293,6 +246,11 @@ fields:
     min: 
     max: 
   label: Home page image 1
+- name: faq_title
+  type: text
+  config:
+    required: false
+  label: FAQ Main Title
 - name: home_faq_repeat
   type: blocks
   label: Home FAQ

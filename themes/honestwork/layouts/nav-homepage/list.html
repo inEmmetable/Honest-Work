@@ -327,6 +327,13 @@
             {{end}}
         </div>
     </section>
+
+    {{ if (eq .template "block-image") }}
+        
+          <img src="{{.image}}" class="img-fluid" alt="{{.Params.title}}">
+        
+    {{end}}
+
 <!--
     <section id="instructors" class="p-5 bg-info">
         <div class="container">
@@ -481,6 +488,9 @@
         {{end}}
     </section>
     {{end}} -->
+
+    
+
     {{- partial "homepage-footer.html" . -}}
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>

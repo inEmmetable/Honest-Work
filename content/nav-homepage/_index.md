@@ -125,12 +125,6 @@ home_page_faq:
 home_page_image_1:
 - template: block-image
   image: "/uploads/group-honest-work.png"
-- template: block-image
-  image: "/uploads/girl-laptop.svg"
-- template: block-image
-  image: "/uploads/fundamentals.svg"
-- template: block-image
-  image: "/uploads/fundamentals-right.svg"
 faq:
 - question: Why should I do employee activism?
   answer: Unique power.

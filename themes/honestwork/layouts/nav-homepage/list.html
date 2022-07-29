@@ -56,7 +56,7 @@
                 {{ range .Params.home_page_image_1}}
                     {{ if (eq .template "block-image") }}
                         
-                        <img src="{{.image}}" class="img-fluid" alt="{{.Params.title}}">
+                        <img class="img-fluid w-50 d-none d-sm-block" src="{{.image}}" class="img-fluid" alt="{{.Params.title}}">
                         
                     {{end}} 
                 {{end}} 

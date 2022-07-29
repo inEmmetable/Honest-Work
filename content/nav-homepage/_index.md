@@ -175,5 +175,11 @@ home_faq_repeat:
 home_page_image_2:
 - template: block-image
   image: "/uploads/girl-laptop.svg"
+home_page_image_3:
+- template: block-image
+  image: "/uploads/fundamentals.svg"
+home_page_image_4:
+- template: block-image
+  image: "/uploads/fundamentals-right.svg"
 
 ---

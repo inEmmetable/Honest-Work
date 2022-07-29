@@ -172,5 +172,8 @@ home_faq_repeat:
   - question: I have another question
     answer: "[Contact us](https://honestwork.org/about/contact-us/)!"
   title: FAQ Title
+home_page_image_2:
+- template: block-image
+  image: "/uploads/girl-laptop.svg"
 
 ---

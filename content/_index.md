@@ -99,5 +99,14 @@ question = "I have another question"
 [[home_page_image_1]]
 image = "/uploads/group-honest-work.png"
 template = "block-image"
+[[home_page_image_2]]
+image = "/uploads/girl-laptop.svg"
+template = "block-image"
+[[home_page_image_3]]
+image = "/uploads/fundamentals.svg"
+template = "block-image"
+[[home_page_image_4]]
+image = "/uploads/fundamentals-right.svg"
+template = "block-image"
 
 +++

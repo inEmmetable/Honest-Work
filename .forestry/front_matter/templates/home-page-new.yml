@@ -238,14 +238,6 @@ fields:
   config:
     required: false
   label: Blue Section with Right Image Link 2
-- name: home_page_image_1
-  type: blocks
-  template_types:
-  - block-image
-  config:
-    min: 
-    max: 
-  label: Home page image 1
 - name: faq_title
   type: text
   config:
@@ -256,6 +248,36 @@ fields:
   label: Home FAQ
   template_types:
   - block-faq
+  config:
+    min: 
+    max: 
+- name: home_page_image_1
+  type: blocks
+  template_types:
+  - block-image
+  config:
+    min: 
+    max: 
+  label: Home page image 1
+- name: home_page_image_2
+  type: blocks
+  label: Home page image 2
+  template_types:
+  - block-image
+  config:
+    min: 
+    max: 
+- name: home_page_image_3
+  type: blocks
+  label: Home page image 3
+  template_types: []
+  config:
+    min: 
+    max: 
+- name: home_page_image_4
+  type: blocks
+  label: Home page image 4
+  template_types: []
   config:
     min: 
     max: 

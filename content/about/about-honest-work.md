@@ -15,7 +15,7 @@ sections:
     Honest Work has been set up to help more workers change their companies for the better. Here you can:
 
     * find [information and resources](/what-to-change/overview/) on how your company may be contributing to global problems and what they can do to change
-    * learn [how to](https://honestwork.org/how-to-change/how-to-make-a-change/) go about advocating for change internally and get colleagues on board
+    * learn [how to](/how-to-change/how-to-make-a-change/) go about advocating for change internally and get colleagues on board
     * [join](https://honestwork.org/join/) an online community of fellow workers for support, advice and learning
     * subscribe below to a monthly newsletter on the latest in employee activism, with tips and opportunities to make a difference
 

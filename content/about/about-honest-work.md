@@ -10,11 +10,11 @@ sections:
 
     That’s not always easy, especially in that place where we spend so much of our time: work. It can be hard to find employers that live up to our values, with so many companies contributing to global problems in some way, be it climate change, human rights abuses or aggressive tax avoidance. And so we feel we have little choice but to keep our head down and get on with things.
 
-    Yet that's starting to change. Workers in every industry are increasingly coming together and pushing the companies they work for to do better. Workers have been [getting](https://honestwork.org/how-to-change/workers-changing-the-world/) their companies to commit to cutting their emissions, stop whitewashing the reputations of controversial clients, and stop stocking dangerous weapons in retailers.
+    Yet that's starting to change. Workers in every industry are increasingly coming together and pushing the companies they work for to do better. Workers have been [getting](/how-to-change/workers-changing-the-world/) their companies to commit to cutting their emissions, stop whitewashing the reputations of controversial clients, and stop stocking dangerous weapons in retailers.
 
     Honest Work has been set up to help more workers change their companies for the better. Here you can:
 
-    * find [information and resources](https://honestwork.org/what-to-change/overview/) on how your company may be contributing to global problems and what they can do to change
+    * find [information and resources](/what-to-change/overview/) on how your company may be contributing to global problems and what they can do to change
     * learn [how to](https://honestwork.org/how-to-change/how-to-make-a-change/) go about advocating for change internally and get colleagues on board
     * [join](https://honestwork.org/join/) an online community of fellow workers for support, advice and learning
     * subscribe below to a monthly newsletter on the latest in employee activism, with tips and opportunities to make a difference

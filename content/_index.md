@@ -70,8 +70,8 @@ question = "I have another question"
 template = "block-faq"
 title = "FAQ"
 [[home_faq_repeat.faq]]
-answer = "Unique power"
-question = "Why should I do employee activism?"
+answer = "Absolutely, though it might not be easy. When workers come together around an issue, they can exert a unique kind of pressure - they often care about their company's mission and have a deep understanding of its challenges. They can also work with [other groups](https://honestwork.org/how-to-change/how-to-make-a-change/) seeking change, such as customers or investors. Check out these [success stories](https://honestwork.org/how-to-change/workers-changing-the-world/) from workers for some inspiration. \n\nWorkers should be aware of their [rights](https://honestwork.org/how-to-change/your-rights/) (and the limits of those rights). Unfortunately in many countries, protections for labour organising are weak; workers should go in with their eyes open."
+question = "Can workers really have much impact on their companies' behaviour?"
 [[home_faq_repeat.faq]]
 answer = "The [\"What to change\"](https://honestwork.org/what-to-change/overview/) section of this website sets out a number of key issues that cut across companies as well as some sector-specific challenges. These are a starting point to help you think about the biggest changes you can make. These focus on concrete changes that workers can ask for over the political statements that sometimes are a source of heated discussions within companies. Ultimately, addressing core, problematic business practices are more likely to positively impact society than empty corporate statements."
 question = "I want to positively influence my company"

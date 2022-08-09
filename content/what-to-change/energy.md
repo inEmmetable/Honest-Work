@@ -48,7 +48,7 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
-answer = "[End Coal](https://endcoal.org/resources/coal-impacts-on-water/) sets out information on the negative impacts coal has on water around the world, while [here](http://www.environmentalintegrity.org/wp-content/uploads/2019/03/National-Coal-Ash-Report-3.4.19-1.pdf) is a report specifically about the US. A collection of resources on damages caused by dams can be found [here](https://www.internationalrivers.org/environmental-impacts-of-dams); [SANDRP](https://sandrp.in/) provides resources specifically on South Asia."
+answer = "Research on the various environmental damages caused by coal (beyond climate change) can be found [here](https://environmentalintegrity.org/what-we-do/coal). A collection of resources on damages caused by dams can be found [here](https://www.internationalrivers.org/environmental-impacts-of-dams); [SANDRP](https://sandrp.in/) provides resources specifically on South Asia."
 question = "More information"
 [[sections.faq]]
 answer = "* Is your company involved with any litigation regarding its environmental practices?\n* Is your company supportive of stronger laws regulating pollution and Environmental Impact Assessments (EIAs)?"

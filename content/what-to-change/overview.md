@@ -48,7 +48,7 @@ template = "block-text"
 template = "block-faq"
 title = ""
 [[sections.faq]]
-answer = "The [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf) set out a framework for companies to prevent, address and remedy human rights abuses committed in business operations. The Business and Human Rights Resource Centre has some [resources](https://www.business-humanrights.org/en/un-guiding-principles/implementation-tools-examples/implementation-by-companies) on how companies have gone about implementing the UNGPs."
+answer = "The [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf) set out a framework for companies to prevent, address and remedy human rights abuses committed in business operations. The Business and Human Rights Resource Centre has some [resources](https://www.business-humanrights.org/en/un-guiding-principles/implementation-tools-examples/implementation-by-companies) on how companies have gone about implementing the UNGPs.\n\nDo you work for a consumer brand and are concerned about potential human rights abuses in your supply chains? See further information [here](https://honestwork.org/what-to-change/consumer-goods/)."
 question = "More information"
 [[sections.faq]]
 answer = "200 of the biggest publicly-traded companies are [ranked](https://www.corporatebenchmark.org/) annually on their human rights performance; see how your company fares. Companies based in Asia and companies in the ICT manufacturing sector tend to score lowest on their human rights performance."

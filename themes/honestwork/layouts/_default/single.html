@@ -188,7 +188,7 @@
           {{ range .Site.Menus.main }}
           {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
           <li class="mb-3">
-            <a class="u-info-v1 p-4 {{ if $currentPage.IsMenuCurrent "main" . }}active-item{{ end }}" href="{{ .Permalink }}">
+            <a class="u-info-v1 p-4 {{ if $currentPage.IsMenuCurrent "main" . }}active-item{{ end }}" href="{{ .URL }}">
               <span class="row justify-content-sm-between align-items-sm-center">
                 <span class="col-9 mb-2 mb-sm-0 {{ if $currentPage.IsMenuCurrent "main" . }}text-primary{{ end }}">
                   {{ .Name }}
@@ -201,7 +201,7 @@
           </li>
           {{ range .Children }}
           <li class="mb-3">
-            <a class="u-info-v1 p-4 {{ if $currentPage.IsMenuCurrent "main" . }}active-item{{ end }}" href="{{ .Permalink }}" href="{{ .Permalink }}">
+            <a class="u-info-v1 p-4 {{ if $currentPage.IsMenuCurrent "main" . }}active-item{{ end }}" href="{{ .URL }}" href="{{ .URL }}">
               <span class="row justify-content-sm-between align-items-sm-center">
                 <span class="col-9 mb-2 mb-sm-0 {{ if $currentPage.IsMenuCurrent "main" . }}text-primary{{ end }}">
                   {{ .Name }}

@@ -1,3 +1,7 @@
++++
+_template = "content_page"
++++
+
 ---
 title: Contact us
 show_sub_navigation: false

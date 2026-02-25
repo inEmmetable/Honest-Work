@@ -1,3 +1,5 @@
 public
 theme
 /public
+node_modules
+.env

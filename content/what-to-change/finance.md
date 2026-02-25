@@ -5,56 +5,95 @@ password_protected = false
 show_sub_navigation = true
 text_alignment = ""
 title = "Finance"
+_template = "content_page"
+
 [menu.footer]
 parent = "What to change"
 weight = 3
+
 [menu.main]
 parent = "What to change"
 weight = 3
+
 [[sections]]
-content = "Finance powers the entire economy: banks, through their lending; investors, through their holdings; insurers, through their underwriting; all have major influence over how companies act and what projects get financed. Choose any issue from any of these pages; financial sector companies can help fix it, if they so choose.\n\nMany of these companies see addressing societal issues as someone else’s responsibility. Banks say it is not their job to dictate outcomes. Passive investors, stock exchanges, index providers and other financial services companies often believe their role is to replicate the market and reflect the investable universe rather than enabling money to flow towards companies that contribute to the general good (and many lobby against regulatory measures that would encourage this). When it’s no one’s job to prevent negative outcomes, negative outcomes is what you get."
+content = """
+Finance powers the entire economy: banks, through their lending; investors, through their holdings; insurers, through their underwriting; all have major influence over how companies act and what projects get financed. Choose any issue from any of these pages; financial sector companies can help fix it, if they so choose.
+
+Many of these companies see addressing societal issues as someone else’s responsibility. Banks say it is not their job to dictate outcomes. Passive investors, stock exchanges, index providers and other financial services companies often believe their role is to replicate the market and reflect the investable universe rather than enabling money to flow towards companies that contribute to the general good (and many lobby against regulatory measures that would encourage this). When it’s no one’s job to prevent negative outcomes, negative outcomes is what you get."""
 template = "block-text"
+
 [[sections]]
 heading = "Bank lending practices"
 template = "block-heading"
+
 [[sections]]
-content = "Many projects can’t be initiated without bank financing. Many fossil fuel exploration projects in particular depend on bank financing, and thus banks have a much more direct and contributing role to fossil fuel projects than other actors.\n\nFossil fuel financing from the world’s 60 largest banks has reached $4.6 trillion since the adoption of the Paris Agreement in 2015, with $742 billion in fossil fuel financing in 2021 alone. Few banks assess whether they are causing or contributing to human rights breaches. If banks were less indifferent to how their money was used, companies and projects that threatened to harm the public good would struggle to get off the ground."
+content = """
+Many projects can’t be initiated without bank financing. Many fossil fuel exploration projects in particular depend on bank financing, and thus banks have a much more direct and contributing role to fossil fuel projects than other actors.
+
+Fossil fuel financing from the world’s 60 largest banks has reached $4.6 trillion since the adoption of the Paris Agreement in 2015, with $742 billion in fossil fuel financing in 2021 alone. Few banks assess whether they are causing or contributing to human rights breaches. If banks were less indifferent to how their money was used, companies and projects that threatened to harm the public good would struggle to get off the ground."""
 template = "block-text"
+
 [[sections]]
 template = "block-faq"
 title = ""
-[[sections.faq]]
-answer = "This [report](https://www.climatesafelending.org/climate-intrapreneurs-report) gives advice on how individual bankers can drive improvements on their bank's practices on climate financing from within. BankTrack has also produced [research](https://www.banktrack.org/campaign/banks_and_human_rights) on the role of banks in relation to human rights."
-question = "More information"
-[[sections.faq]]
-answer = "If the world was to only burn all known fossil fuel reserves, that would already take the planet beyond 2 degrees of global warming, well beyond the [1.5 degrees](https://www.ipcc.ch/sr15/) limit needed to avoid some catastrophic consequences. Despite this, fossil fuel expansion continues. Banks should not finance the expansion of fossil fuel extraction or infrastructure, whether via project finance (direct financing for a fossil fuel asset) or general corporate support (financing provided to a company overall), for companies engaged in new fossil fuel exploration, particularly in relation to [coal](https://coalpolicytool.org/)."
-question = "The most urgent issue"
-[[sections.faq]]
-answer = "[Banking on Climate Chaos](https://www.bankingonclimatechaos.org/) collects data on many banks' policies with respect to lending for fossil fuel projects as well as how much financing is actually being committed."
-question = "How's your company doing?"
-[[sections.faq]]
-answer = "* Does your bank continue to permit lending to fossil fuel expansion?\n* Does your bank have a plan in place to rapidly scale down its financing for existing fossil fuel projects?\n* Does your bank have a rigorous due diligence process to ensure there is no risk faced to human rights by the projects they finance?"
-question = "Questions for your company"
+
+  [[sections.faq]]
+  answer = "This [report](https://www.climatesafelending.org/climate-intrapreneurs-report) gives advice on how individual bankers can drive improvements on their bank's practices on climate financing from within. BankTrack has also produced [research](https://www.banktrack.org/campaign/banks_and_human_rights) on the role of banks in relation to human rights."
+  question = "More information"
+
+  [[sections.faq]]
+  answer = "If the world was to only burn all known fossil fuel reserves, that would already take the planet beyond 2 degrees of global warming, well beyond the [1.5 degrees](https://www.ipcc.ch/sr15/) limit needed to avoid some catastrophic consequences. Despite this, fossil fuel expansion continues. Banks should not finance the expansion of fossil fuel extraction or infrastructure, whether via project finance (direct financing for a fossil fuel asset) or general corporate support (financing provided to a company overall), for companies engaged in new fossil fuel exploration, particularly in relation to [coal](https://coalpolicytool.org/)."
+  question = "The most urgent issue"
+
+  [[sections.faq]]
+  answer = "[Banking on Climate Chaos](https://www.bankingonclimatechaos.org/) collects data on many banks' policies with respect to lending for fossil fuel projects as well as how much financing is actually being committed."
+  question = "How's your company doing?"
+
+  [[sections.faq]]
+  answer = """
+* Does your bank continue to permit lending to fossil fuel expansion?
+* Does your bank have a plan in place to rapidly scale down its financing for existing fossil fuel projects?
+* Does your bank have a rigorous due diligence process to ensure there is no risk faced to human rights by the projects they finance?"""
+  question = "Questions for your company"
+
 [[sections]]
 heading = "Unsustainable investing"
 template = "block-heading"
+
 [[sections]]
 image = "/uploads/what-finance-investments.jpg"
 template = "block-image"
+
 [[sections]]
-content = "Investors exercise enormous influence or control over companies. Yet they have often failed to prevent, and have even encouraged, the misdeeds and abuses perpetrated by their investee companies, be it climate change, inequality and the precarisation of work, or human rights abuses. This is despite the fact that most of the money that they manage comes from the pensions of everyday workers, who have an interest not just in a stable retirement income but also in a fair world to live and retire in.\n\nThere is increasing recognition of the role of investors in fixing problems generated by portfolio companies; as seen with the explosion in popularity of ESG (environmental, social and governance) investing. But beyond nice marketing too few investors back substantive change, and continue to support companies in plundering public goods as long as it remains profitable to do so.\n\nInvestors have two major ways to influence outcomes for society - how they select the companies they are willing to invest in, and their ownership practices towards those companies they do invest in. For the former, this means ensuring money is directed towards companies and projects that contribute to the collective good, and withheld where it would cause harm. For the latter, this means demanding companies align their activities with the interests of society, and voting against management where they do not."
+content = """
+Investors exercise enormous influence or control over companies. Yet they have often failed to prevent, and have even encouraged, the misdeeds and abuses perpetrated by their investee companies, be it climate change, inequality and the precarisation of work, or human rights abuses. This is despite the fact that most of the money that they manage comes from the pensions of everyday workers, who have an interest not just in a stable retirement income but also in a fair world to live and retire in.
+
+There is increasing recognition of the role of investors in fixing problems generated by portfolio companies; as seen with the explosion in popularity of ESG (environmental, social and governance) investing. But beyond nice marketing too few investors back substantive change, and continue to support companies in plundering public goods as long as it remains profitable to do so.
+
+Investors have two major ways to influence outcomes for society - how they select the companies they are willing to invest in, and their ownership practices towards those companies they do invest in. For the former, this means ensuring money is directed towards companies and projects that contribute to the collective good, and withheld where it would cause harm. For the latter, this means demanding companies align their activities with the interests of society, and voting against management where they do not."""
 template = "block-text"
+
 [[sections]]
 template = "block-faq"
 title = ""
-[[sections.faq]]
-answer = "The Financial Times’ [Moral Money](https://www.ft.com/moral-money) newsletter is a good resource for the latest updates on sustainable investing. For shareholder voting, [Majority Action](https://www.majorityaction.us/) sets out the key issues to look out for and how the largest asset managers vote on relevant shareholder proposals.\n\nThere are a number of relevant initiatives investors in this space can join. For asset owners, the [Net Zero Asset Owner Alliance](https://www.unepfi.org/net-zero-alliance/) have pledged to decarbonise their portfolios by 2050. [ClimateAction100+](http://www.climateaction100.org/) is a collection of hundreds of investors engaging the world’s most polluting companies to change their practices. Investors can also support needed policy change such as the [EU taxonomy](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/sustainable-finance/eu-taxonomy-sustainable-activities_en), which requires investors to disclose the sustainability of their portfolios.\n\n[Greenwashing](https://www.forbes.com/sites/betsyatkins/2022/01/17/esg-environmental-social-greenwashing/) - the practice of an organisation exaggerating their commitment to sustainability - is widespread within the investment community. Workers looking to scrutinise their firm's sustainability credentials need to look beyond high-level commitments to how it is integrated into decisions across the firm and how the firm tracks its sustainability impact."
-question = "More information"
-[[sections.faq]]
-answer = "ShareAction has an [analysis](https://shareaction.org/news/worlds-largest-asset-managers-block-progress-on-environmental-and-social-issues) of the voting practices of some of the world's largest manager on environmental and social shareholder proposals. They have also [analysed](https://shareaction.org/reports/insuring-disaster-a-ranking) insurers' investment approach (as well as their underwriting practices) with respect to systemic issues."
-question = "How's your company doing?"
-[[sections.faq]]
-answer = "* Is your firm invested in fossil fuel companies? How is your firm ensuring that these companies develop and implement a plan to decarbonise?\n* How does your firm vote on ESG shareholder proposals? How does it vote on board elections and compensation proposals at companies with problematic practices?"
-question = "Questions for your company"
 
+  [[sections.faq]]
+  answer = """
+The Financial Times’ [Moral Money](https://www.ft.com/moral-money) newsletter is a good resource for the latest updates on sustainable investing. For shareholder voting, [Majority Action](https://www.majorityaction.us/) sets out the key issues to look out for and how the largest asset managers vote on relevant shareholder proposals.
+
+There are a number of relevant initiatives investors in this space can join. For asset owners, the [Net Zero Asset Owner Alliance](https://www.unepfi.org/net-zero-alliance/) have pledged to decarbonise their portfolios by 2050. [ClimateAction100+](http://www.climateaction100.org/) is a collection of hundreds of investors engaging the world’s most polluting companies to change their practices. Investors can also support needed policy change such as the [EU taxonomy](https://ec.europa.eu/info/business-economy-euro/banking-and-finance/sustainable-finance/eu-taxonomy-sustainable-activities_en), which requires investors to disclose the sustainability of their portfolios.
+
+[Greenwashing](https://www.forbes.com/sites/betsyatkins/2022/01/17/esg-environmental-social-greenwashing/) - the practice of an organisation exaggerating their commitment to sustainability - is widespread within the investment community. Workers looking to scrutinise their firm's sustainability credentials need to look beyond high-level commitments to how it is integrated into decisions across the firm and how the firm tracks its sustainability impact."""
+  question = "More information"
+
+  [[sections.faq]]
+  answer = "ShareAction has an [analysis](https://shareaction.org/news/worlds-largest-asset-managers-block-progress-on-environmental-and-social-issues) of the voting practices of some of the world's largest manager on environmental and social shareholder proposals. They have also [analysed](https://shareaction.org/reports/insuring-disaster-a-ranking) insurers' investment approach (as well as their underwriting practices) with respect to systemic issues."
+  question = "How's your company doing?"
+
+  [[sections.faq]]
+  answer = """
+* Is your firm invested in fossil fuel companies? How is your firm ensuring that these companies develop and implement a plan to decarbonise?
+* How does your firm vote on ESG shareholder proposals? How does it vote on board elections and compensation proposals at companies with problematic practices?"""
+  question = "Questions for your company"
 +++
+

@@ -1,3 +1,7 @@
++++
+_template = "content_page"
++++
+
 ---
 title: Joining a trade unionX
 show_sub_navigation: true

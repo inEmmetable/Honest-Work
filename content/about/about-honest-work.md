@@ -1,3 +1,7 @@
++++
+_template = "content_page"
++++
+
 ---
 header_image: "/uploads/705984a5-3740-417a-bf15-2cda2c075be0-3.jpg"
 title: " "

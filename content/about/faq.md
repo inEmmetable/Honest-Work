@@ -1,3 +1,7 @@
++++
+_template = "content_page"
++++
+
 ---
 title: What is employee activism?
 show_sub_navigation: true

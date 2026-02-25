@@ -1,3 +1,7 @@
++++
+_template = "content_page"
++++
+
 ---
 title: How to make a changeX
 show_sub_navigation: true

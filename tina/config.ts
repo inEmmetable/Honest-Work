@@ -13,19 +13,17 @@ import { home_page_newFields } from "./templates";
 import { homepageFields } from "./templates";
 
 // Your hosting provider likely exposes this as an environment variable
-const branch =
-  process.env.GITHUB_BRANCH ||
-  process.env.VERCEL_GIT_COMMIT_REF ||
-  process.env.HEAD ||
-  "main";
+const branch = "master";
+
 
 export default defineConfig({
   branch,
 
   // Get this from tina.io
-  clientId: process.env.NEXT_PUBLIC_TINA_CLIENT_ID,
+  clientId: "3a6f885e-2ff2-4b9f-83dc-bb3c3aa9ac8d",
+
   // Get this from tina.io
-  token: process.env.TINA_TOKEN,
+token: "584ffb4d89f2fefcb5afd0f8d6f264f59eebc64c",
 
   client: { skip: true },
   build: {

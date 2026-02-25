@@ -8,7 +8,7 @@
   </div>
   <div class="container text-center u-space-4">
     
-    <div class="w-lg-50 mx-auto mb-3 {{ if eq .URL "/home/" }}w-lg-80 {{ end }}">
+    <div class="w-lg-50 mx-auto mb-3 {{ if eq .Permalink "/home/" }}w-lg-80 {{ end }}">
       <h1 class="display-3 font-size-48--md-down text-white font-weight-bold"
         style="text-shadow: 0px 0px 15px rgba(0,0,0,1);">
         {{.Params.title}}
@@ -188,7 +188,7 @@
           {{ range .Site.Menus.main }}
           {{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
           <li class="mb-3">
-            <a class="u-info-v1 p-4 {{ if $currentPage.IsMenuCurrent "main" . }}active-item{{ end }}" href="{{ .URL }}">
+            <a class="u-info-v1 p-4 {{ if $currentPage.IsMenuCurrent "main" . }}active-item{{ end }}" href="{{ .Permalink }}">
               <span class="row justify-content-sm-between align-items-sm-center">
                 <span class="col-9 mb-2 mb-sm-0 {{ if $currentPage.IsMenuCurrent "main" . }}text-primary{{ end }}">
                   {{ .Name }}
@@ -201,7 +201,7 @@
           </li>
           {{ range .Children }}
           <li class="mb-3">
-            <a class="u-info-v1 p-4 {{ if $currentPage.IsMenuCurrent "main" . }}active-item{{ end }}" href="{{ .URL }}" href="{{ .URL }}">
+            <a class="u-info-v1 p-4 {{ if $currentPage.IsMenuCurrent "main" . }}active-item{{ end }}" href="{{ .Permalink }}" href="{{ .Permalink }}">
               <span class="row justify-content-sm-between align-items-sm-center">
                 <span class="col-9 mb-2 mb-sm-0 {{ if $currentPage.IsMenuCurrent "main" . }}text-primary{{ end }}">
                   {{ .Name }}

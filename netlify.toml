@@ -4,7 +4,5 @@
 
 [build.environment]
   HUGO_VERSION = "0.99.1"
-  TINA_PUBLIC_CLIENT_ID = "30e6d6b3-6ef4-44c1-8c06-3a1e91585b61"
-  TINA_TOKEN = "428a42a5d50c37f60c5c3ea7325d2c7d0082f1a6"
   NODE_VERSION = "20"
 

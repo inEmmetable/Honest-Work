@@ -34,7 +34,7 @@ All companies should aim to become carbon neutral; this can limit the effects of
 template = "block-text"
 
 [[sections]]
-title = "FAQ"
+title = ""
 template = "block-faq"
 
   [[sections.faq]]

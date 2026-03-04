@@ -1,10 +1,10 @@
 +++
-content = ""
 header_image = "/uploads/home-change-doorway-2.png"
-password_protected = false
-show_sub_navigation = true
-text_alignment = ""
 title = "The change you can make"
+content = ""
+show_sub_navigation = true
+password_protected = false
+text_alignment = ""
 _template = "content_page"
 
 [menu.footer]
@@ -34,35 +34,35 @@ All companies should aim to become carbon neutral; this can limit the effects of
 template = "block-text"
 
 [[sections]]
+title = "FAQ - General - Climate"
 template = "block-faq"
-title = ""
 
   [[sections.faq]]
+  question = "More information"
   answer = """
 For a basic introduction to climate change and answers to some FAQs, TED has put together a list of [resources](https://countdown.ted.com/get-informed/) and some of their famous talks which can provide you with information and inspiration. Project Drawdown has put together a comprehensive [guide](https://drawdown.org/publications/climate-solutions-at-work) for what all climate conscious employees can demand, as well as [guides for different job functions](https://drawdown.org/programs/drawdown-labs/job-function-action-guides): finance, government relations, HR, legal, marketing, procurement and sales. [WorkForClimate](https://www.workforclimate.org/post/3-practical-tips-climate-action) and [Planet Groups](https://planetgroups.net/wp-content/uploads/2021/04/As-an-employee-what-can-I-do-for-Corporate-Climate-Action_EN.pdf) also have some tips.
 
 Abandoning fossil fuels should not mean abandoning fossil fuel workers - companies and governments need to have plans for a "just transition" for workers to support them in getting good jobs that don’t rely high-emitting energy sources."""
-  question = "More information"
 
   [[sections.faq]]
-  answer = "While we need to start rapidly reducing our reliance on all fossil fuels, this is most urgent for coal - inefficient and, heavily polluting. **Coal usage must be ramped down as soon as possible**. The International Energy Agency has further [found](https://www.iea.org/reports/net-zero-by-2050) that there should be **no further investment in new fossil fuel supply** to achieve net zero by 2050."
   question = "The most urgent issue"
+  answer = "While we need to start rapidly reducing our reliance on all fossil fuels, this is most urgent for coal - inefficient and, heavily polluting. **Coal usage must be ramped down as soon as possible**. The International Energy Agency has further [found](https://www.iea.org/reports/net-zero-by-2050) that there should be **no further investment in new fossil fuel supply** to achieve net zero by 2050."
 
   [[sections.faq]]
+  question = "How's your company doing?"
   answer = """
 [Energy companies](https://honestwork.org/what-to-change/energy/) are obviously the most significant [contributors](https://cdn.cdp.net/cdp-production/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf) to climate change. Several technology solutions that have emerged in recent years emit high levels of emissions, such as data centres for cloud computing, blockchain services, and [ride-hailing apps](https://www.ucsusa.org/resources/ride-hailing-climate-risks) like Uber. Supply chains that contribute to deforestation also play a role, such as those for palm oil (found in around [50%](https://www.wwf.org.uk/updates/8-things-know-about-palm-oil) of packaged products in supermarkets).
 
 The Transition Pathway Initiative [evaluates](https://www.transitionpathwayinitiative.org/sectors) the alignment of companies in high-emitting sectors with a 1.5 degree scenario over the short-, medium- and long-term.
 
 [Banks and investors](https://honestwork.org/what-to-change/finance/) may also enable poor practices by the companies they lend to or invest in. [PR and ad agencies](https://cleancreatives.org/) also play a role in greenwashing the image of unsustainable companies."""
-  question = "How's your company doing?"
 
   [[sections.faq]]
+  question = "Questions for your company"
   answer = """
 * Is your company a major emitter? Does it have a credible plan to get to net zero greenhouse gas emissions on a sufficiently urgent timeline, with (crucially) interim reduction targets?
 * Does your company provide services to any major emitters? Does it have a policy prohibiting business relations with companies that fail to contribute to climate solutions?
 * Does your company contribute to climate change through its supply chain, perhaps through indirect emissions or deforestation?"""
-  question = "Questions for your company"
 
 [[sections]]
 heading = "Human Rights"
@@ -80,25 +80,25 @@ Respecting and protecting human rights needs to be a minimum expectation of the 
 template = "block-text"
 
 [[sections]]
-template = "block-faq"
 title = ""
+template = "block-faq"
 
   [[sections.faq]]
+  question = "More information"
   answer = """
 The [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/documents/publications/guidingprinciplesbusinesshr_en.pdf) set out a framework for companies to prevent, address and remedy human rights abuses committed in business operations. The Business and Human Rights Resource Centre has some [resources](https://www.business-humanrights.org/en/un-guiding-principles/implementation-tools-examples/implementation-by-companies) on how companies have gone about implementing the UNGPs.
 
 Do you work for a consumer brand and are concerned about potential human rights abuses in your supply chains? See further information [here](https://honestwork.org/what-to-change/consumer-goods/)."""
-  question = "More information"
 
   [[sections.faq]]
-  answer = "200 of the biggest publicly-traded companies are [ranked](https://www.corporatebenchmark.org/) annually on their human rights performance; see how your company fares. Companies based in Asia and companies in the ICT manufacturing sector tend to score lowest on their human rights performance."
   question = "How's your company doing?"
+  answer = "200 of the biggest publicly-traded companies are [ranked](https://www.corporatebenchmark.org/) annually on their human rights performance; see how your company fares. Companies based in Asia and companies in the ICT manufacturing sector tend to score lowest on their human rights performance."
 
   [[sections.faq]]
+  question = "Questions for your company"
   answer = """
 * Does your company undertake due diligence to ensure that there are no human rights breaches throughout its supply chain (i.e. beyond its direct suppliers)?
 * Where a human rights breach is found to have taken place, does your company provide remedy and compensation that is satisfactory to the victim?"""
-  question = "Questions for your company"
 
 [[sections]]
 heading = "Tax"
@@ -114,28 +114,28 @@ Closing tax loopholes is undoubtedly governments’ job. Nonetheless, profitable
 template = "block-text"
 
 [[sections]]
-template = "block-faq"
 title = ""
+template = "block-faq"
 
   [[sections.faq]]
-  answer = "A great resource with answers to just about everything is [here](https://www.icij.org/investigations/panama-papers/what-is-a-tax-haven-offshore-finance-explained/). The Tax Justice Network has prepared answers to some FAQs [here](https://www.taxjustice.net/faq/), including why this isn’t an issue just for governments."
   question = "More information"
+  answer = "A great resource with answers to just about everything is [here](https://www.icij.org/investigations/panama-papers/what-is-a-tax-haven-offshore-finance-explained/). The Tax Justice Network has prepared answers to some FAQs [here](https://www.taxjustice.net/faq/), including why this isn’t an issue just for governments."
 
   [[sections.faq]]
-  answer = "Countries across the globe are damaged by the reduced tax revenues they are able to collect from companies. Yet this is a particular problem for l**ow-income countries**, who are [estimated](https://www.imf.org/external/pubs/ft/fandd/2019/09/tackling-global-tax-havens-shaxon.htm) to miss out on around $200bn in corporate tax revenues per year - that’s greater than the amount they receive in development assistance."
   question = "The most urgent issue"
+  answer = "Countries across the globe are damaged by the reduced tax revenues they are able to collect from companies. Yet this is a particular problem for l**ow-income countries**, who are [estimated](https://www.imf.org/external/pubs/ft/fandd/2019/09/tackling-global-tax-havens-shaxon.htm) to miss out on around $200bn in corporate tax revenues per year - that’s greater than the amount they receive in development assistance."
 
   [[sections.faq]]
-  answer = "Some media outlets prepare lists of the biggest tax dodgers in their country, including: [Australia](https://michaelwest.com.au/revealed-australias-top-40-tax-dodgers-for-2021/), [UK](https://www.thisismoney.co.uk/money/news/article-6522913/Almost-1-5-biggest-firms-paid-year-5-got-handout-taxman.html), [US](https://itep.org/corporate-tax-avoidance-under-the-tax-cuts-and-jobs-act/)."
   question = "How's your company doing?"
+  answer = "Some media outlets prepare lists of the biggest tax dodgers in their country, including: [Australia](https://michaelwest.com.au/revealed-australias-top-40-tax-dodgers-for-2021/), [UK](https://www.thisismoney.co.uk/money/news/article-6522913/Almost-1-5-biggest-firms-paid-year-5-got-handout-taxman.html), [US](https://itep.org/corporate-tax-avoidance-under-the-tax-cuts-and-jobs-act/)."
 
   [[sections.faq]]
+  question = "Questions for your company"
   answer = """
 * How much tax did your company pay in your jurisdiction last year?
 * Does your company declare a significant amount of its profits in a [tax haven](https://cthi.taxjustice.net/en/) such as the British Virgin Islands or Bermuda?
 * Is your company certified with a [Fair Tax Mark](https://fairtaxmark.net/) to indicate they’re paying a reasonable rate of tax? Why not?
 * Does your company supply aggressive tax planning services to other businesses?"""
-  question = "Questions for your company"
 
 [[sections]]
 heading = "Political Donations and Lobbying"
@@ -155,27 +155,27 @@ This is not about influencing whether money flows to liberal or conservative par
 template = "block-text"
 
 [[sections]]
-template = "block-faq"
 title = ""
+template = "block-faq"
 
   [[sections.faq]]
-  answer = "Vox prepared [40 charts](https://www.vox.com/2014/7/30/5949581/money-in-politics-charts-explain) explaining the state of money in politics - while from 2014 and limited to the US, most of these trends continue today and are true in other countries: the amount of money is going up, the candidate with the most money usually wins, a tiny percentage of the population is responsible for the majority of donations. There is also a [TED talk](https://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim) and something more [lighthearted](https://www.youtube.com/watch?v=Ylomy1Aw9Hk) setting out the issue."
   question = "More information"
+  answer = "Vox prepared [40 charts](https://www.vox.com/2014/7/30/5949581/money-in-politics-charts-explain) explaining the state of money in politics - while from 2014 and limited to the US, most of these trends continue today and are true in other countries: the amount of money is going up, the candidate with the most money usually wins, a tiny percentage of the population is responsible for the majority of donations. There is also a [TED talk](https://www.ted.com/talks/lawrence_lessig_we_the_people_and_the_republic_we_must_reclaim) and something more [lighthearted](https://www.youtube.com/watch?v=Ylomy1Aw9Hk) setting out the issue."
 
   [[sections.faq]]
+  question = "How's your company doing?"
   answer = """
 For the US, Open Secrets publishes a [database](https://www.opensecrets.org/orgs/all-profiles) of the top donors and spenders on lobbying per election cycle. [Goods Unite Us](https://www.goodsuniteus.com/) also publish data on how companies and their senior employees donate money, and compares their behaviour to rival brands. Many donations lack transparency and come in the form of “dark money” - [Issue One](https://www.issueone.org/dark-money/) set out to trace the funders of the top 15 dark money groups.
 
 Newsletter Popular Information has also compiled lists of [companies](https://popular.info/p/the-january-6-corporate-accountability?s=r) that donate to politicians who voted to overturn the 2020 US Presidential Election, and those whose donations contradicts their stated commitment to [Black Lives Matter](https://popular.info/p/corporations-tweet-support-for-black?s=r) and [LGBT rights](https://popular.info/p/lgbtq2022?s=w)."""
-  question = "How's your company doing?"
 
   [[sections.faq]]
+  question = "Questions for your company"
   answer = """
 * How much money does your company spend on political donations and lobbying?
 * What goals has your company pursued through its political engagement activities? Are they consistent with its stated values?
 * What trade associations is your company a member of? Do its policy positions align with those of your company?
 * Has your company established [pro-democracy policies](https://www.businessanddemocracy.org/why)?"""
-  question = "Questions for your company"
 
 [[sections]]
 heading = "Still looking?"

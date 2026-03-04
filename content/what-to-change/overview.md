@@ -42,7 +42,7 @@ template = "block-faq"
   answer = """
 For a basic introduction to climate change and answers to some FAQs, TED has put together a list of [resources](https://countdown.ted.com/get-informed/) and some of their famous talks which can provide you with information and inspiration. Project Drawdown has put together a comprehensive [guide](https://drawdown.org/publications/climate-solutions-at-work) for what all climate conscious employees can demand, as well as [guides for different job functions](https://drawdown.org/programs/drawdown-labs/job-function-action-guides): finance, government relations, HR, legal, marketing, procurement and sales. [WorkForClimate](https://www.workforclimate.org/post/3-practical-tips-climate-action) and [Planet Groups](https://planetgroups.net/wp-content/uploads/2021/04/As-an-employee-what-can-I-do-for-Corporate-Climate-Action_EN.pdf) also have some tips.
 
-Abandoning fossil fuels should not mean abandoning fossil fuel workers - companies and governments need to have plans for a "just transition" for workers to support them in getting good jobs that don’t rely high-emitting energy sources."""
+Abandoning fossil fuels should not mean abandoning fossil fuel workers - companies and governments need to have plans for a "just transition" for workers to support them in getting quality jobs that don’t rely high-emitting energy sources."""
 
   [[sections.faq]]
   question = "The most urgent issue"

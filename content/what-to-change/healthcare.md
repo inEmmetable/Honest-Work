@@ -27,7 +27,7 @@ A subset of this issue is how healthcare companies interact with the patent syst
 template = "block-text"
 
 [[sections]]
-title = "FAQ"
+title = ""
 template = "block-faq"
 
   [[sections.faq]]

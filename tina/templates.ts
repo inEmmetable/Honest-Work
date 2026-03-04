@@ -5,7 +5,6 @@ export function block__faqFields() {
       type: "string",
       name: "title",
       label: "Title",
-      required: true
     },
     {
       type: "object",

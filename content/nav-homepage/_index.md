@@ -1,4 +1,5 @@
 ---
+_template: home_page_new
 title: Honest Work - The change you can make
 type: nav-homepage
 slider_images:
